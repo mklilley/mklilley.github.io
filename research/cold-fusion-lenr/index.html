@@ -114,7 +114,7 @@
 	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="research/play-with-particles/">Play with Particles</a></li>
 </ul>
 </li>
-<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37"><a href="education/">Education</a>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37"><a href="education/">Education</a></li>
 <li id="menu-item-653" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-652  menu-item-653"><a href="code/">Code</a></li>
 </li>
 <li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="contact/">Contact</a></li>
@@ -144,7 +144,7 @@
 <article id="post-88" class="post-88 page type-page status-publish hentry">
 		<div class="entry-content clearfix">
 		<h6>Summary</h6>
-		<p>On March 23rd 1989 Martin Fleischmann and Stanley Pons stunned the world by announcing that had achieved fusion at room temperature on a table-top chemistry experiment - so called <a href="https://en.wikipedia.org/wiki/Cold_fusion" target="_blank">"cold fusion"</a>. This experiment involved conducting electricity through heavy water and into solid palladium metal (<a href="https://en.wikipedia.org/wiki/Electrolysis" target="_blank">electrolysis</a>) - something that a high school student could in principle do. <p>
+		<p>On March 23rd 1989 Martin Fleischmann and Stanley Pons stunned the world by announcing that had achieved fusion at room temperature on a table-top chemistry experiment - so called <a href="https://en.wikipedia.org/wiki/Cold_fusion" target="_blank">"cold fusion"</a>. This experiment involved conducting electricity through heavy water and into solid palladium metal (<a href="https://en.wikipedia.org/wiki/Electrolysis" target="_blank">electrolysis</a>) - something that a high school student could in principle do. This was not the first time such claims were made. In 1927, Swedish scientist J. Tandberg also claimed that he had fused hydrogen into helium in an electrolytic cell with palladium electrodes [1].<p>
 <div id="attachment_483" style="width: 310px" class="wp-caption aligncenter"><a href="wp-content/uploads/2019/06/pons-fleischmann.jpg"><img class="wp-image-483 size-medium" src="wp-content/uploads/2019/06/pons-fleischmann.jpg" alt="Operating fusor from University of Missouri-Columbia" width="300" height="244" /></a><p class="wp-caption-text">Pons and Fleischman</p></div>
 <p>
 Despite the apparent simplicity, the experiments were difficult to reproduce and took 10 weeks to perform. Experimental replications were made over many months in reputable labs, e.g. <a href="https://www.deseretnews.com/article/78011/LOS-ALAMOS-VERIFIES-TRITIUM-PRODUCTION-IN-COLD-FUSION-TESTS.html" target="_blank">Los Alamos</a> and <a href="https://pdfs.semanticscholar.org/b2ab/364ef13574f30b41ef87cf8fa69e2c25dcff.pdf" target="_blank">SRI international</a>, but failed replication attempts done over several days at <a href="https://link.springer.com/article/10.1007/BF02627578" target="_blank">MIT</a> and <a href="https://www.nature.com/articles/340525a0" target="_blank">Caltech</a> were more influential. They added to an already growing criticism of the poor communication and high ambiguity of some of the initial results.
@@ -183,12 +183,49 @@ Despite the words of Nobel prize winner and theoretical nuclear physicist, Julia
 <p> The overall aim of this research is to progress solid-state nuclear science as quickly as possible. To this end, I co-founded an open science platform <a href='https://www.project-ida.org/' target="_blank"> Project Ida </a> which attempts to amplify our efforts by bring together the vast wealth of experience and resources that already exist in the scientific community.
  </p>
 
+ <p>
+I also built my own experiment from scratch which you can read more about at the end of the technical section below.
+	  </p>
+
 <p>&nbsp;</p>
 <h6> More technical details</h6>
 
-<p> My initial research interest in cold fusion was experimental. Challenged by one of my physics friends to build a cold fusion demonstration for under £1000, I decided to attempt to replicate the work of <a href='http://www.lenr-canr.org/acrobat/MalloveEreproducib.pdf' target="_blank">Les Case </a> [1-3]. He made cold fusion / LENR happen in a pressurised container of deuterium gas at 3.4 atmospheres at 200C with palladium and coconut shell carbon. I publish all my lenr work openly on a GitLab repository called <a href='https://gitlab.com/mklilley/lenr/' target="_blank"> lilley-lenr</a>. There you'll find my data, analysis code. You can also follow the real-time progress of my experiments by visiting the <a href='https://gitlab.com/mklilley/lenr/issues/' target="_blank">experimental blog.</a> </p>
+<p>
 
- <p> Today, my specific focus is on theory and modelling of the quantum dynamics aspects of solid-state nuclear science and specifically on nuclear excitation transfer. I publish computational essays on these subjects on the <a href='https://www.project-ida.org/research-codes' target="_blank">Project Ida research page</a>  and also <a href='https://github.com/project-ida/two-state-quantum-systems' target="_blank">Project Ida GitHub</a>  </p>
+</p>
+
+<p>
+The central idea of the earliest experiments of Tandberg [1], and also Paneth and Peters [2], was to create a condition of very high hydrogen (or deuterium) density by using the special ability of palladium to act like a “metal sponge” for these gases [3]. The hope was that the hydrogen (or deuterium) would be close enough for fusion to occur at room temperature.
+</p>
+
+<p>
+It was already known that the hydrogen-hydrogen distance in molecular hydrogen at room temperature was 74pm and so the hydrogen inside palladium would have to be at least this close. It was not until 1957 that neutron diffraction experiments could reveal the position of hydrogen inside the palladium lattice [4]. Hydrogen was found at the octahedral sites of the palladium face centred cubic lattice - putting the hydrogen-hydrogen distance at 200pm. This made it seem highly unlikely that fusion would be possible in palladium hydride.
+
+</p>
+
+<p>
+
+	Interest in cold fusion was revived by the Fleischmann and Pons announcement in 1989 [5]. The controversy notwithstanding, physicists were stimulated to look again at the fusion rates models used since 1920s (in particular the Gamow model [6]). It was found that:
+
+	<li> Screening of the repulsive Coulomb force by electrons in the lattice could increase fusion rates by 15-20 orders of magnitude </li>
+
+	<li>Lattice dynamics could increase the rates by 5-10 orders of magnitude </li>
+
+		</p>
+
+		<p>
+
+	There is still a "missing" 20 orders of magnitude to find in models in order to explain the anomalies that have been observed. Finding these missing orders of magnitude is what I spend most of time on today.
+	</p>
+
+		<p>
+	My focus is on theory and modelling of the quantum dynamics aspects of the cold fusion problem and specifically on nuclear excitation transfer. I am working with a theory that's been developed over the last 20 years which provides a plausible location for the missing orders or magnitude. I publish computational essays on these subjects on the <a href='https://www.project-ida.org/research-codes' target="_blank">Project Ida research page</a>  and also <a href='https://github.com/project-ida/two-state-quantum-systems' target="_blank">Project Ida GitHub</a>
+
+</p>
+
+<p> Although today I am doing more theory and modelling, my initial research interest in cold fusion was experimental. Challenged by one of my physics friends to build a cold fusion demonstration for under £1000, I decided to attempt to replicate the work of <a href='http://www.lenr-canr.org/acrobat/MalloveEreproducib.pdf' target="_blank">Les Case </a> [7-9]. He made cold fusion / LENR happen in a pressurised container of deuterium gas at 3.4 atmospheres at 200C with palladium and coconut shell carbon. I publish all my lenr work openly on a GitLab repository called <a href='https://gitlab.com/mklilley/lenr/' target="_blank"> lilley-lenr</a>. There you'll find my data, analysis code. You can also follow the real-time progress of my experiments by visiting the <a href='https://gitlab.com/mklilley/lenr/issues/' target="_blank">experimental blog </a> and watch video updates on my <a href="https://www.youtube.com/playlist?list=PLjvHqB5pIFEzQ7qfOdoxW60B0F7OThnW-" target="_blank" > YouTube channel</a></p>
+
+
 
 
 
@@ -198,11 +235,27 @@ Despite the words of Nobel prize winner and theoretical nuclear physicist, Julia
 <p>&nbsp;</p>
 <p><strong>References</strong></p>
 
-<p>[1] <a href="https://www.infinite-energy.com/iemagazine/issue23/deviceupdate.html" target="_blank">G. Mallove, Infinite Energy Magazine Volume 4, Issue #23 (1999)</a></p>
+<p> [1] J. Tandberg, “Method for producing Helium,” Swedish patent application (1927). Due to Paneth and Peters' [2] retraction, Tandberg's patent application was denied eventually.  </p>
 
-<p>[2] <a href="https://lenr-canr.org/acrobat/Hagelsteinnewphysica.pdf#page=18" target="_blank">P. Hagelstein et.al, Appendix B  Results of Case Experiments at SRI (2004).</a> (This was <a href="https://lenr-canr.org/wordpress/?page_id=455#MaterialSubmitted" target="_blank">Submitted to DoE </a> as part of their second review on LENR)</p>
+<p> [2] <a href="https://link.springer.com/article/10.1007/BF01579126" target="_blank"> F. Paneth and K. Peters, “Uber die Verwandlung von waterstoff in Helium,” Naturwissenschaften, 14, 958 (1926) </a>. P&P reported transformation of hydrogen into helium when hydrogen was absorbed by finely divided palladium at room temperature. The authors later acknowledged that the helium they measured was due to background from the air.</p>
 
-<p>[3] <a href="http://www.coldfusionnow.com/podcast/Ruby-Carat-Edmund-Storms-Cold-Fusion-Now-019.mp3" target="_blank">E. Storms, Cold Fusion Now podcast, at 57 min</a></p>
+<p> [3] <a href="https://doi.org/10.1098/rstl.1866.0018" target="_blank">  T. Graham XVIII. On the absorption and dialytic separation of gases by colloid septa. Philosophical transactions of the Royal Society of London, 156, 399-439 (1866) </a>. "Palladium ... readily absorbs hydrogen, to the extent of upwards of 600 times the volume of the metal..."  </p>
+
+<p>[4] <a href="https://doi.org/10.1016/0022-3697(57)90033-1" target="_blank"> J. E. Worsham, et al (1957). Neutron-diffraction observations on the palladium-hydrogen and palladium-deuterium systems. Journal of Physics and Chemistry of Solids, 3, 303–310.</a></p>
+
+<p> [5] <a href="http://dx.doi.org/10.1016/0022-0728(89)80006-3" target="_blank">M. Fleischman S. Pons, "Electrochemically induced nuclear fusion of deuterium", Journal of Electroanalytical Chemistry and Interfacial Electrochemistry
+Volume 261, Issue 2, Part 1, Pages 301-308 (1989)  </a>
+</p>
+
+
+<p>[6] <a href="https://link.springer.com/article/10.1007%2FBF01343196" target="_blank"> G. Gamow Zur Quantentheorie des Atomkernes  Zeitschrift für Physik volume 51, pages 204–212(1928), </a> English translation <a href="http://web.ihep.su/dbserv/compas/src/gamow28/eng.pdf" target="_blank">here</a>. </p>
+
+<p>[7] <a href="https://www.infinite-energy.com/iemagazine/issue23/deviceupdate.html" target="_blank">G. Mallove, Infinite Energy Magazine Volume 4, Issue #23 (1999)</a></p>
+
+<p>[8] <a href="https://lenr-canr.org/acrobat/Hagelsteinnewphysica.pdf#page=18" target="_blank">P. Hagelstein et.al, Appendix B  Results of Case Experiments at SRI (2004).</a> (This was <a href="https://lenr-canr.org/wordpress/?page_id=455#MaterialSubmitted" target="_blank">Submitted to DoE </a> as part of their second review on LENR)</p>
+
+<p>[9] <a href="http://www.coldfusionnow.com/podcast/Ruby-Carat-Edmund-Storms-Cold-Fusion-Now-019.mp3" target="_blank">E. Storms, Cold Fusion Now podcast, at 57 min</a></p>
+
 
 			</div>
 	<footer class="entry-meta-bar clearfix">
