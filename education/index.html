@@ -63,7 +63,84 @@
 			.single #content .tags a:hover { color: #1e73be; }
 			.widget_testimonial .testimonial-icon:before { color: #1e73be; }
 			a#scroll-up { background-color: #1e73be; }
-			#search-form span { background-color: #1e73be; }</style>
+			#search-form span { background-color: #1e73be; }
+
+
+			.github-card {
+			    background-color: #fff;
+					margin:10px 0px;
+			    color: #7d7d7d;
+			    border: thin solid #e4e4e4;
+			    min-width: 250px;
+			    border-radius: 0.5em;
+			    padding: 0.5em;
+			    display: inline-block;
+			    box-shadow: 2px 3px rgba(228,228,228,0.7);
+			}
+
+			.github-card .label {
+				color: #7d7d7d;
+			}
+
+			.github-card .button {
+			    position: relative;
+			    display: inline-block;
+			    box-sizing: border-box;
+			    padding: 4px 1.5em;
+			    cursor: pointer;
+			    -webkit-transition: all 0.1s;
+			    transition: all 0.1s;
+			    text-align: center;
+			    text-decoration: none;
+			    color: #333;
+			    border: 1px solid #a6a6a6;
+			    border-radius: 20em;
+			    background-color: #f2f1eb;
+			    background-image: -webkit-linear-gradient(top,#f6f6f3,#e7e7df);
+			    background-image: linear-gradient(to bottom,#f6f6f3,#e7e7df);
+			    text-shadow: 0 1px hsla(0,0%,100%,0.6);
+			    font-size: 14px;
+			    font-size: 0.875rem;
+			    font-weight: 600;
+			    line-height: normal;
+			    -webkit-appearance: none;
+			    -moz-appearance: none;
+			    -webkit-font-smoothing: antialiased;
+			}
+
+	.github-card .header {
+	    display: flex;
+	    flex-wrap: nowrap;
+	    align-items: flex-start;
+	    margin-bottom: 0.5em;
+	}
+
+	.github-card .header .handle {
+	    font-size: smaller;
+	}
+
+	.github-card .header .name {
+	    color: #000;
+	    font-weight: bold;
+	}
+
+	.github-card .header .avatar {
+	    flex-shrink: 0;
+	    margin-right: 0.5em;
+	}
+
+	.github-card .header .button {
+	    margin: 0 0 0 auto;
+	    font-size: small;
+	    padding: 0.5em;
+	    font-weight: normal;
+	}
+
+	.repository-card .button {
+	display:none;
+	}
+
+</style>
 		<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -149,18 +226,50 @@
 
 			<p>Outside academia, I've tutored individual students needing help with maths and physics.</p>
 
-			<p>Currently, I teach people how to code and work with data. I also create and facilitate workshops with business leaders to help them understand new technologies like <a href="https://twitter.com/feline_dacat/status/921333764965437443" target="_blank">blockchain</a>, machine learning and <a href="https://twitter.com/KathrynParsons/status/1017345651296886784" target="_blank">quantum computing.</a></p>
+			<p>Currently, I teach people how to code and work with data. I also create and facilitate workshops with business leaders to help them understand new technologies like <a href="https://twitter.com/feline_dacat/status/921333764965437443" target="_blank">blockchain</a>, machine learning and <a href="https://twitter.com/KathrynParsons/status/1017345651296886784" target="_blank">quantum computing.</a> If you need: a speaker, a facilitator or help creating educational content, then please <a title="Contact" href="contact">get in contact.</a></p>
 
-		  <p>	I also provide free educational videos on my YouTube channel <a href="https://youtube.com/CasualPhysics" target="_blank">CasualPhysics</a> </p>
 
-			<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/JFwxlRu7tnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+			<p>I also write online interactive computational essays (aka notebooks) to help people understand quantum physics, e.g. </p>
+
+
+			<div class="github-card repo-card">
+			  <div class="header">
+			    <a class="avatar" href="https://observablehq.com/@mklilley" target="_top"><img src="https://avatars0.githubusercontent.com/u/7937044?v=4&s=128" style="width: 46px; height: 46px; max-width: none; flex-shrink: 0;border-radius:100%"></a>
+			    <div>
+			      <span>
+			        <a href="https://observablehq.com/@mklilley/quantum-physics-particle-in-a-box" target="_top" class="name">Quantum physics - Particle in a "box"</a>
+			        <sup class="language">Observable Notebook</sup>
+			      </span>
+			      <div class="handle">Created by
+			        <a href="https://observablehq.com/@mklilley" target="_top">Matt Lilley</a>
+			      </div>
+
+			    </div>
+
+
+			  </div>
+			  <div class="content">
+			    <p>This collection is dedicated to exploring the quantum behaviour of particles moving under the influence of a confining potential - aka a "quantum box"</p>
+			  </div>
+
+			  <!-- <div class="footer">
+			    <ul class="status small">
+			      <li><span class="count">1</span><span class="label">Stars</span></li>
+			      <li><span class="count">1</span><span class="label">Watchers</span></li>
+			    </ul>
+			  </div> -->
+
+			</div>
+
+
+		  <p>	And I make educational videos on my YouTube channel <a href="https://youtube.com/CasualPhysics" target="_blank">CasualPhysics</a> </p>
+
 
 			<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/gvZj6LBvH80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
 
-			<p><strong><a title="Contact" href="contact">Get in contact</a></strong> if you need:</p>
-			<li>A speaker</li>
-			<li>A facilitator</li>
-			<li>Help creating educational content</li>
+			<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/JFwxlRu7tnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+
 
 
 			</div>
