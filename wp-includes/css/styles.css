@@ -210,6 +210,14 @@ a#scroll-up {
   margin-right: 0.5em;
 }
 
+.github-card .header .avatar img {
+  width: 46px;
+  height: 46px;
+  max-width: none;
+  flex-shrink: 0;
+  border-radius: 100%;
+}
+
 .github-card .header .button {
   margin: 0 0 0 auto;
   font-size: small;
@@ -219,4 +227,29 @@ a#scroll-up {
 
 .repository-card .button {
   display: none;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.clear-both {
+  clear: both;
+}
+
+.journal-title {
+  font-weight: inherit;
+  font-style: italic;
+}
+
+.image-box {
+  width: 310px;
+}
+
+.bold {
+  font-weight: bold;
 }
