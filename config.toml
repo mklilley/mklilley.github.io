@@ -1,8 +1,5 @@
 baseURL = "http://localhost:1313/"
-title = "Puppet"
-
-# theme = "puppet"
-# themesDir = "../.."
+title = "Matt Lilley"
 
 copyright = ""
 paginate = 3
@@ -70,7 +67,7 @@ weight = 100
 
 [params]
 author = "Puppet"
-description = "A simple and clean theme for Hugo"
+description = "Science, technology, education"
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
