@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Fusor - Star mode"
 date = "2014-08-04"
-description = "Enhanced electrostatic fusion"
+description = "Understanding if enhanced electrostatic fusion is possible"
 tags = [
     "science"
 ]
