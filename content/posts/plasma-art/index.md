@@ -84,4 +84,9 @@ A plasma is produced inductively between two coils that are driven by 13 MHz RF 
 
 
 
+## Visible Light Emission from an X-pinch
+Jonathan Wood and Matilda Locke - 2012
 
+{{< image-link src="plasma-art-xpinch.jpg" alt="X" >}}
+
+Images show the total visible light emitted from X-pinches made of 2 and 4 wires respectively. A 14kA current was divided between the 5µm Tungsten wire legs of the X-pinch, heating it and turning it into a plasma.  At the crossing point a small cylinder was formed. Here the interaction between the current and the generated magnetic field produced a large force towards the central axis causing it to implode or ‘pinch’.  Instabilities in this region produced hotspots that emitted x-rays and visible light.  Other interesting features in these images include the plasma ‘sausage’ instability on the legs of the X-pinch and plasma streamers caused by insufficient plasma confinement. The increased number of wire legs led to less confinement and more flares due to the increased division of current.
