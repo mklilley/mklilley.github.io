@@ -7,6 +7,7 @@ tags = [
     "science",
     "education"
 ]
+toc = true
 +++
 
 The walls of physics departments are often lined with poster contributions from old conferences. The vast majority go without so much as a glance from visitors or fellow researchers. I wanted the walls of the plasma physics group at Imperial College London to be a showcase for research, but in a way that would be inspirational and a bit more accessible. The Plasma Art project was initiated with the aim of displaying large scale images that would simultaneously possess scientific and artistic qualities.

@@ -6,6 +6,7 @@ description = "A summary of my research on energetic particle driven instabiliti
 tags = [
     "science"
 ]
+toc = true
 +++
 
 ## Magnetic confinement fusion

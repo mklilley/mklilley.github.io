@@ -6,6 +6,7 @@ description = "Understanding if enhanced electrostatic fusion is possible"
 tags = [
     "science"
 ]
+toc = true
 +++
 
 ## What is a Fusor?
