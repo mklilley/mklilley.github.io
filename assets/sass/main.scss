@@ -324,7 +324,9 @@ samp {
       display: block;
       width: 100%;
       max-width: 400px;
+      max-height:80vh;
       height: auto;
+      object-fit: contain;
       margin: 0 auto;
       overflow: hidden;
     }
