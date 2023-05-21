@@ -8,6 +8,7 @@ tags = [
 ]
 +++
 
+## What is a Fusor?
 One of the original concepts for a fusion reactor involved the use of electric fields from spherical charged wire grids [^1]<sup>,</sup>[^2]<sup>,</sup>[^3] - something now known as a [Fusor](https://en.wikipedia.org/wiki/Fusor).  It was envisioned that the large fields would accelerate charged ions up to the high energies required to overcome their mutual repulsion and allow nuclear fusion to occur – releasing energy in the process.  Initial experiments demonstrated fusion reactions [^4]<sup>,</sup>[^5]<sup>,</sup>[^6], but collisions between the ions and the grid proved to be too frequent to allow its application to energy generation.
 
 [^1]: [P. T. Farnsworth, U.S. Patent No. 3258402 (1966).](https://www.google.com/patents/US3258402)
@@ -21,6 +22,7 @@ One of the original concepts for a fusion reactor involved the use of electric f
 
 ![fusor star mode](Fusor.jpg "Operating fusor from University of Missouri-Columbia")
 
+## Star mode - enhanced fusor performance?
 
 It was found in 1997, by G. H. Miley [^7], that Fusors can operate in a regime with fewer collisions between the accelerated ions and the grid. This “Star Mode”, as it has come to be known, could in principle give the Fusor a new lease of life, but at present there is no complete understanding of the physics involved.
 
