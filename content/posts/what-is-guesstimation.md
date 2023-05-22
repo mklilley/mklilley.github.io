@@ -5,6 +5,7 @@ date = "2021-10-02"
 description = "An introduction to the process of solving seemingly impossible problems"
 tags = [
     "education",
+    "science"
 ]
 series = ["Guesstimation"]
 +++
