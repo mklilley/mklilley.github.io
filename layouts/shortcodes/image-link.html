@@ -1,12 +1,5 @@
-{{ $image := .Page.Resources.GetMatch (.Get "src") }}
-{{ if gt $image.Width $image.Height }}
-  {{ $resized := $image.Resize "300x" }}
-  <a href="{{.Get "src"}}" target="_blank">
-    <img src="{{ $resized.Permalink }}" alt="{{ .Get "alt" }}">
+  <figure>
+  <a href="{{.Get "href"}}" target="_blank">
+    <img src="{{ .Get "src" | safeURL}}" alt="{{ .Get "alt" }}">
   </a>
-{{ else }}
-  {{ $resized := $image.Resize "x300" }}
-  <a href="{{.Get "src"}}" target="_blank">
-    <img src="{{ $resized.Permalink }}" alt="{{ .Get "alt" }}">
-  </a>
-{{ end }}
+</figure>
