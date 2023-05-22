@@ -4,8 +4,7 @@ title = "Rvu"
 date = "2017-09-25"
 description = "Review - a decentralised peer-reviewed publication platform"
 tags = [
-    "technology",
-    "science"
+    "technology"
 ]
 +++
 
