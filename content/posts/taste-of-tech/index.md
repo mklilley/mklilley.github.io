@@ -15,8 +15,6 @@ Since 2017, I've worked a lot in tech education, running accelerated learning ex
 
 I've seen how hard it can be for people to figure out if a career in tech is right for them and so I'm experimenting with an idea to help unblock peoples' decision paralysis and make a confident choice about their next career.
 
-<!-- ![Taste of Tech logo](tasteoftech.png) -->
-
 {{<image-link src="tasteoftech.png" href="https://tasteof.tech" alt="Taste of Tech logo">}}
 
 
