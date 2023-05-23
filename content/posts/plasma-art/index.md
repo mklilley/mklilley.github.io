@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Plasma art"
 date = "2014-09-23"
-description = "Sparking curiosity in science through images with both scientific and artistic qualities"
+subtitle = "Sparking curiosity in science through images with both scientific and artistic qualities"
 tags = [
     "science",
     "education"

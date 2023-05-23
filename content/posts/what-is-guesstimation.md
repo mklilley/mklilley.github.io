@@ -2,7 +2,8 @@
 author = "Matt Lilley"
 title = "What is guesstimation?"
 date = "2021-10-02"
-description = "An introduction to the process of solving seemingly impossible problems"
+description = "In this series, I'll show you how not to stress about big, impossible sounding problems, like \"how many people are picking their nose right now?\". The secret is in approximations, not exact answers. You'll be amazed at what you can understand when precision takes a back seat."
+subtitle="The process of solving \"impossible\" problems"
 tags = [
     "education",
     "science"

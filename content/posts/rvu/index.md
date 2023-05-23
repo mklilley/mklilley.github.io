@@ -2,10 +2,11 @@
 author = "Matt Lilley"
 title = "Rvu"
 date = "2017-09-25"
-description = "Review - a decentralised peer-reviewed publication platform"
 tags = [
     "technology"
 ]
+subtitle="A decentralised peer-reviewed publication platform"
+description="It's no secret that academic publishing is dysfunctional. Much has been written about the problems and potential solutions. A friend and I have begun gathering our own thoughts"
 +++
 
 It's no secret that academic publishing is dysfunctional. Much has been written about the [problems](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science) and potential [solutions](https://f1000research.com/articles/6-1151/v3).
