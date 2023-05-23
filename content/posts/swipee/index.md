@@ -13,9 +13,9 @@ tags = [
 
 This is why I made [Swipee](https://swipee.lilley.io/). Instead of a reading list, Swipee uses a deck of swipeable cards:
 
-![](swipee-left.png "Left to discard")
+![Swipee screenshot](swipee-left.png "Left to discard")
 
-![](swipee-right.png "Right to to save for later")
+![Swipee screenshot](swipee-right.png "Right to to save for later")
 
 This way, you'll never have to see your ever growing list of content 🙌 . Swipee also helps you to be more honest about the content you want to save for later. By using financial incentives, Swipee encourages you to think twice before you swipe right.
 
