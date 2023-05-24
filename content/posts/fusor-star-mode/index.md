@@ -1,6 +1,6 @@
 +++
 author = "Matt Lilley"
-title = "Fusor - Star mode"
+title = "Fusor: Star mode"
 date = "2014-08-04"
 description = "One of the original concepts for a fusion reactor involved the use of electric fields from spherical charged wire grids- something now known as a Fusor"
 subtitle="Understanding if enhanced electrostatic fusion is possible"
