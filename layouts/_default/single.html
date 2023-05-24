@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+{{ if or .Params.math .Site.Params.math }}
+  {{ partial "math.html" . }}
+{{ end }}
+
 <!-- Post Content -->
 <article>
   <div class="container">
