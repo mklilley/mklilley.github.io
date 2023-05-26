@@ -1,7 +1,7 @@
 +++
 author = "Matt Lilley"
 title = "Flashee"
-date = "2020-12-30"
+date = "2020-12-29"
 description = "There's no such thing as an original idea, and this is especially true of flashcard apps. There are MANY apps out there and yet all of them suck (in my humble opinion 🤣)"
 subtitle="The free and simple flash card app"
 tags = [
