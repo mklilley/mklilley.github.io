@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Grow your own food?"
 date = "2022-05-16"
-description = "Today is all about doing your first guesstimate. We'll do it by embarking on a cool thought experiment together – trying to estimate the distance to the centre of the Earth, using nothing but a bit of elementary maths and our everyday experiences. Intriguing, right?"
+description = "Have you ever daydreamed about leading a self-sufficient life, growing all your food on a patch of land? It's an alluring fantasy, isn't it? But how feasible is this dream?"
 tags = [
     "education",
     "science"
