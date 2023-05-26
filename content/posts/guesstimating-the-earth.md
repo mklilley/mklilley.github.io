@@ -7,6 +7,7 @@ tags = [
     "education",
     "science"
 ]
+subtitle="A journey to the center of our planet"
 series = ["Guesstimation"]
 +++
 
@@ -15,7 +16,7 @@ series = ["Guesstimation"]
 
 Welcome to post number 2 in this [series on guesstimation](/series/guesstimation). If this is your entry point into the world of guesstimation then please go back to the [first post](/posts/what-is-guesstimation) in this series to get some more context as to what we are trying to do in this series.
 
-Today is all about doing your first guesstimate. We'll do it by embarking on a cool thought experiment together – trying to estimate the distance to the centre of the Earth, using nothing but a bit of elementary maths and our everyday experiences. Intriguing, right?
+Today is all about doing your first guesstimate. We're going to estimate the distance to the centre of the Earth, using nothing but a bit of elementary maths and our everyday experiences. Intriguing, right?
 
 We're going to find that we can be quite cavalier with our numbers so long as they are not more than 10 times too big or too small - it turns out that (most of the time) small errors tend to cancel out which is what makes guesstimation so powerful.
 
