@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Pickle power"
 date = "2022-02-13"
-description = "In this series, I'll show you how not to stress about big, impossible sounding problems, like \"how many people are picking their nose right now?\". The secret is in approximations, not exact answers. You'll be amazed at what you can understand when precision takes a back seat."
+description = "Picture this – you're in a bustling city, London, to be precise, with a pickle in hand 🥒. Now imagine every pickle consumed in London over the span of a year, lined up end to end. Just how far would that string of pickles stretch?"
 subtitle="Unblocking guesstimation gridlock with the geometric mean"
 tags = [
     "education",
