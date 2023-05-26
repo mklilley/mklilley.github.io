@@ -1,7 +1,7 @@
 +++
 author = "Matt Lilley"
 title = "Guesstimating the earth"
-date = "2021-10-02"
+date = "2021-10-03"
 description = "Today is all about doing your first guesstimate. We'll do it by embarking on a cool thought experiment together – trying to estimate the distance to the centre of the Earth, using nothing but a bit of elementary maths and our everyday experiences. Intriguing, right?"
 tags = [
     "education",
