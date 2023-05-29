@@ -24,6 +24,24 @@
           </div>
           <h1>{{ .Title }}</h1>
           <h2 class="subheading">{{ $.Params.subtitle }}</h2>
+          <div style="margin-bottom:10px;">
+            <span class="meta">
+              {{ if isset .Params "series" }}
+              {{ $term := index .Params.series 0 }}
+              
+              {{ $series := index site.Taxonomies.series ($term | urlize) }}
+            
+              {{ if $series }}
+  
+                  Part of the <a style="color:#337ab7;" href="{{ "/" | relLangURL }}series/{{ $term | urlize }}/">{{ $term }}</a> series
+  
+    
+              {{ end }}
+            {{ end }}
+
+            </span>
+
+          </div>
           <span class="meta">
             {{ .Date.Format "Mon, Jan 2, 2006" }}
           </span>
