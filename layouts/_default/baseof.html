@@ -74,14 +74,28 @@
 
 <body ontouchstart="">
   {{- $header_img := .Param "header_img" -}}
-  {{- if .IsHome -}}
-  {{ $header_img = .Site.Params.img_home }}
-  {{- else if eq .Kind "404" -}}
-  {{ $header_img = .Site.Params.img_404 }}
-  {{- end -}}
-  {{- if $header_img -}}
-  {{ .Scratch.Set "header_img" ( $header_img | relURL ) }}
-  {{- end -}}
+  
+  {{- $imgResource := .Resources.GetMatch $header_img -}}
+  
+  {{- if $imgResource -}} <!-- if the image was found in the page bundle -->
+  
+    {{- $header_img = $imgResource.Permalink -}} <!-- set $header_img to the image's permalink -->
+    {{ .Scratch.Set "header_img" ( $header_img | relURL ) }}
+  
+  {{- else -}} <!-- if the image was NOT found in the page bundle -->
+    
+
+    {{- if .IsHome -}}
+    {{ $header_img = .Site.Params.img_home }}
+    {{- else if eq .Kind "404" -}}
+    {{ $header_img = .Site.Params.img_404 }}
+    {{- end -}}
+    {{- if $header_img -}}
+    {{ .Scratch.Set "header_img" ( $header_img | relURL ) }}
+    {{- end -}}
+
+
+  {{ end }}
 
   {{- if and .IsPage (.Params.toc) }}
   {{ .Scratch.Set "toc" true }}
