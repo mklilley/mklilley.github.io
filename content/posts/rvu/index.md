@@ -17,6 +17,11 @@ A friend and I have begun gathering our own thoughts on how to "fix" academic pu
 
 ![Rvu concept diagram](rvu.png)
 
-We made this [little slide deck](https://drive.google.com/file/d/0B61TfSXkBtmtTlU4bm9Ib2swams/view?usp=sharing&resourcekey=0-r9qdAQfoi-OXTUeTS09HXQ) outlining our fledgling ideas and enabling technologies like blockchain, IPFS and machine learning. These are of course [not new ideas](https://www.reddit.com/r/CryptoCurrency/comments/2mlql3/crazy_idea_use_the_blockchain_technology_for_peer/) (is there ever such a thing 🤔 ) but we are inspired that we were not alone.
+We made this [little slide deck](https://drive.google.com/file/d/0B61TfSXkBtmtTlU4bm9Ib2swams/view?usp=sharing&resourcekey=0-r9qdAQfoi-OXTUeTS09HXQ) outlining our fledgling ideas and enabling technologies like blockchain, IPFS and machine learning. 
+
+<iframe src="https://drive.google.com/file/d/0B61TfSXkBtmtTlU4bm9Ib2swams/preview" width="100%" height="480" allow="autoplay"></iframe>
+
+
+These are of course [not new ideas](https://www.reddit.com/r/CryptoCurrency/comments/2mlql3/crazy_idea_use_the_blockchain_technology_for_peer/) (is there ever such a thing 🤔 ) but we are inspired that we were not alone.
 
 If you like this idea and would like to collaborate with us on it, please [get in touch](/about/#contact).
