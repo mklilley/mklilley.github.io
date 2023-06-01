@@ -30,4 +30,4 @@ Two big questions remain:
 
 My spending is currently sitting at around £2000. I'm not too upset about it though. I'm new to this whole experimental game and I know a lot of the overspending was because I was learning as I was doing.
 
-Did I make cold fusion happen? I saw a 5C rise in temperature above the baseline using a [hybrid of the Les Case and Mizuno work](/posts/cold-fusion-coconut-conundrum). I'm using hydrogen not deuterium, so this result was surprising. Many variables to consider and a full analysis will have to wait until after my holiday. Cliff hanger 🤣.
+Did I make cold fusion happen? I saw a 5C rise in temperature above the baseline using a [hybrid of the Les Case and Mizuno work](/posts/cold-fusion-coconut-conundrum) - this suggests there was an extra source of heat coming from inside the reactor. I'm using hydrogen not deuterium, so this result was surprising. Many variables to consider and a full analysis will have to wait until after my holiday. Cliff hanger 🤣.
