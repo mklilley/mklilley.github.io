@@ -10,7 +10,7 @@ series = ["Cold fusion (LENR)"]
 toc = true
 +++
 
-[A mont ago](/posts/cold-fusion-rabbit-hole), I committed myself to making some local cold fusion connections by placing somewhat cryptic posters in London university physics departments. I was delighted to receive some emails and had some great follow up conversations with curious, open-minded physicists.
+[A month ago](/posts/cold-fusion-rabbit-hole), I committed myself to making some local cold fusion connections by placing somewhat cryptic posters in London university physics departments. I was delighted to receive some emails and had some great follow up conversations with curious, open-minded physicists.
 
 One of the physicists was also an entrepreneurial character. He politely critiqued my proposition of neededing £10M to make cold fusion a reality. To paraphrase, "No one is going to give you £10M. What can you demonstrate for £1000?" 😱 .
 
