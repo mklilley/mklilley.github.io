@@ -1,7 +1,7 @@
 +++
 author = "Matt Lilley"
 title = "Play with particles"
-date = "2014-09-14"
+date = "2014-06-25"
 subtitle = "An experiment in cross platform physics apps"
 tags = [
     "science",
