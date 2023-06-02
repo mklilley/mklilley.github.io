@@ -21,10 +21,13 @@ I went to my first cold fusion (LENR) conference - [ICCF22](https://iscmns.org/i
 
 The [research was diverse](https://iscmns.org/iccf22/program/), e.g. Condensed plasmoids ([Jaitner](https://www.youtube.com/watch?v=Gl9paQbjywk&list=PLpEPF2v_du9RBqvUxxOpoO2GSquUjzn2r)), Palladium thin films on Nickel foam ([Mastromatteo](https://www.youtube.com/watch?v=-gZrlxsFT7M&list=PLpEPF2v_du9RBqvUxxOpoO2GSquUjzn2r)), Nano powders with hydrogen ([Iwamura](https://www.youtube.com/watch?v=PwWLcmNieVY&list=PLpEPF2v_du9RBqvUxxOpoO2GSquUjzn2r)), Nuclear excitation transfer ([Metzler](https://www.youtube.com/watch?v=dDIZF9T9Umo&list=PLpEPF2v_du9RBqvUxxOpoO2GSquUjzn2r)) to name but a few! Incredibly inspirational to see all this work and to make some new connections.
 
+Off the back of ICCF22, one of my new collaborators, Florian Metzler, invited me to come out to MIT. I was an incredible experience to see the diversity of LENR experiments they've got going on, e.g. electrochemical, ion-beam, excitation transfer, and I got to help out in one of their experiments to replicate the work of Letts [^1]
 
+![](matt-florian-sadie-mit.png)
 
+We also talked about possibly of working on some theory work together in an attempt to try and make some VERY complex ideas more accessible to larger audiences. That would be super exciting...but it's not for now... I've still have to finish off my own experiments!
 
-In October, I finally sat down to analyse the data from my first experiment and answer the question did I made cold fusion happen?:
+On that topic, in late October, I finally sat down to analyse the data from my first experiment and answer the question did I made cold fusion happen?:
 
 {{< youtube jwS2Ve3eK9Q >}}
 
@@ -45,4 +48,5 @@ Once the new deuterium generator is commissioned, then we'll be all set to be (h
 
 
 
+[^1]: [D. Letts, P. L. Hagelstein, Modified Szpak Protocol for Excess Heat, J. Condensed Matter Nucl. Sci. 6 (2012) 44–54](https://lenr-canr.org/acrobat/BiberianJPjcondensede.pdf#page=53)
 
