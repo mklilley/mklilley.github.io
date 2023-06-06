@@ -1,6 +1,6 @@
 +++
 author = "Matt Lilley"
-title = "Staggering Scales"
+title = "Staggering scales"
 date = "2021-12-28"
 description = "And, we get to add another tool to our toolbox today - scientific notation. It might sound a little complicated if you're new to it, but trust me, you'll soon see its charm. It's a tool that enables us to write enormous or minuscule numbers in a compact form, making our calculations not only manageable but also enjoyable."
 subtitle="Guesstimating the number of atoms on earth"
