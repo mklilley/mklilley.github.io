@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Backup Gitlab issues"
 date = "2023-05-04"
-description = "I need to buy new fridge with some annoyingly specific requirements. The problem is, the fridge keeps going out of stock and the website's built in notification system"
+description = "While wrestling with the inevitable, my brain suddenly surfaced those immortal 3 letters GPT 🤩 and that's when I knew the way I worked was going to change."
 subtitle="My first GPT 💡 moment"
 tags = [
     "technology",
