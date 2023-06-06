@@ -22,7 +22,7 @@ If you've followed along with my [experimental log](https://gitlab.com/mklilley/
 
 Today, I finally got around to performing a deuterium experiment using a stable DC power supply and the results confirmed my suspicion - no excess heat, no cold fusion.
 
-{{< tweet user="CasualPhysics" id="1301625367866806272" >}}
+{{< tweet user="CasualPhysics" id="1301627284097585152" >}}
 
 Obviously I'm a bit disappointed, but really only a smidgen. I've learnt a TONNE since I [started this experimental adventure](/posts/cold-fusion-becoming-experimentalist/) and I've met some great collaborators along with way. Hugely thankful to Alan Smith and Ed Storms in particular - I would not have been able to get this far without your support 🙏.
 
