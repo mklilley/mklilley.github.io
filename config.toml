@@ -2,7 +2,7 @@ baseURL = "http://localhost:1313/"
 title = "Matt Lilley"
 
 copyright = ""
-paginate = 3
+paginate = 4
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -39,30 +39,36 @@ unsafe = true
 
 [menu]
 [[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = -100
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = -1
+[[menu.main]]
+identifier = "Science"
+name = "Science"
+url = "/tags/science"
+weight = 2
+[[menu.main]]
+identifier = "Technology"
+name = "Technology"
+url = "/tags/technology"
+weight = 2
+[[menu.main]]
+identifier = "Education"
+name = "Education"
+url = "/tags/education"
+weight = 3
 [[menu.main]]
 identifier = "archive"
 name = "Archive"
 url = "/archive/"
-weight = 10
+weight = 6
 [[menu.main]]
-identifier = "guide"
-name = "Guide"
-url = "/series/themes-guide/"
-weight = 20
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 50
-[[menu.main]]
-identifier = "github"
-name = "Github"
-url = "https://github.com/roninro/hugo-theme-puppet/"
-weight = 100
+identifier = "series"
+name = "Series"
+url = "/series"
+weight = 5
+
 
 
 [params]
