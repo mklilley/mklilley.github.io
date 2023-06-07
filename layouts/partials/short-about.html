@@ -12,7 +12,7 @@
     {{ if $sidebar.gravatarEmail }}
     <img src="https://s.gravatar.com/avatar/{{ md5 $sidebar.gravatarEmail }}?s=200" />
     {{ else if $sidebar.avatar }}
-    <img src="{{ $sidebar.avatar | relURL }}" />
+    <img data-action="zoom" src="{{ $sidebar.avatar | relURL }}" />
     {{ end }}
     {{ with $sidebar.bio }}
     <p>{{ $sidebar.bio }}</p>
