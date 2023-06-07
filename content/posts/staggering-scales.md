@@ -14,7 +14,7 @@ series = ["Guesstimation"]
 {{< youtube eGiIiY9ta70 >}}
 
 
-Hello, curious minds! Welcome to post number 3 in this [series on guesstimation](/series/guesstimation). If this is your entry point into the world of guesstimation then please go back to the [first post]({{< relref "/posts/what-is-guesstimation" >}}) in this series to get some more context as to what we are trying to do in this series.
+Hello, curious minds! Welcome to post number 3 in this [series on guesstimation]({{< relref "/series/guesstimation" >}}). If this is your entry point into the world of guesstimation then please go back to the [first post]({{< relref "/posts/what-is-guesstimation" >}}) in this series to get some more context as to what we are trying to do in this series.
 
 Today, we're embarking on an exciting scientific journey that will take us from the dizzying heights of our magnificent planet Earth down to the infinitesimally small world of atoms. Our mission? To unravel a mind-boggling question: How many atoms are there on Earth? 🌍
 

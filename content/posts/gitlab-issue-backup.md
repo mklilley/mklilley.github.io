@@ -10,7 +10,7 @@ tags = [
 ]
 +++
 
-If you've been following my [cold fusion series](/series/cold-fusion-lenr), then you'll know that I built my own reactor and did some experiments over the course of 2018-2020. Back then, I decided to write my experimental log using [issues on the lilley-lenr GitLab repository](https://gitlab.com/mklilley/lenr/-/issues). Each issue would be associated with an experimental campaign and each comment on an issue would contain a log of what I did that day. The issues worked quite nicely with the repo itself - which stored experimental data and analysis code.
+If you've been following my [cold fusion series]({{< relref "/series/cold-fusion-lenr" >}}), then you'll know that I built my own reactor and did some experiments over the course of 2018-2020. Back then, I decided to write my experimental log using [issues on the lilley-lenr GitLab repository](https://gitlab.com/mklilley/lenr/-/issues). Each issue would be associated with an experimental campaign and each comment on an issue would contain a log of what I did that day. The issues worked quite nicely with the repo itself - which stored experimental data and analysis code.
 
 Today, it struck me that I don't have a backup of my experimental log and, although it seems unlikely that GitLab will suddenly cease too exist, I would be distraught if I lost this data. After trawling through my hard drive, I found reference to repo I made called `gitlab-issues-backup` 🙌 . However, upon closer inspection I found but a single file containing:
 

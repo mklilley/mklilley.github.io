@@ -16,7 +16,7 @@ series = ["Guesstimation"]
 
 Picture this – you're in a bustling city, London, to be precise, with a pickle in hand 🥒. Now imagine every pickle consumed in London over the span of a year, lined up end to end. Just how far would that string of pickles stretch? It might seem a whimsical, even absurd question, but humor me for a moment, because finding the answer is a journey that challenges our perceptions of scale, and stretches our mathematical muscles.
 
-Hello there 👋 and welcome the fourth post in the [series on guesstimation](/series/guesstimation) where we tackle seemingly impossible problems using the power of approximation, logic, and a sprinkling of creativity.
+Hello there 👋 and welcome the fourth post in the [series on guesstimation]({{< relref "/series/guesstimation" >}}) where we tackle seemingly impossible problems using the power of approximation, logic, and a sprinkling of creativity.
 
 Just like [last time]({{< relref "/posts/staggering-scales" >}}), we've got a new tool to play with - the geometric mean - and it's going to help you grapple with that universal "I have no idea" reflex. You know the one – that moment when you're faced with a problem so immense or bizarre that you want to throw your hands up and surrender to the impossible 😫. No longer. The geometric mean will change how you view problems, tackling them from new angles, and seeing potential solutions where before you only saw dead-ends.
 

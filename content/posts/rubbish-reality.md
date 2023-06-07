@@ -13,7 +13,7 @@ series = ["Guesstimation"]
 
 {{< youtube FBeh11g3NSk >}}
 
-Strap in, folks, because we're about to embark on a whirlwind tour of our wastelands! That's right - in this 6th installment in the [series on guesstimation](/series/guesstimation), we're closing out our food-themed trilogy with a biggie: WASTE!
+Strap in, folks, because we're about to embark on a whirlwind tour of our wastelands! That's right - in this 6th installment in the [series on guesstimation]({{< relref "/series/guesstimation" >}}), we're closing out our food-themed trilogy with a biggie: WASTE!
 
 So, picture a landfill. It's essentially a gaping hole that swallows our waste, an insatiable beast. But exactly how insatiable is it? How gigantic are these holes? Should we lose sleep over this? These are the hot questions sizzling on today's platter!
 

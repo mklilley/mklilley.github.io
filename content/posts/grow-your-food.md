@@ -16,7 +16,7 @@ series = ["Guesstimation"]
 
 Have you ever daydreamed about leading a self-sufficient life, growing all your food on a patch of land? It's an alluring fantasy, isn't it? But how feasible is this dream? How much land would you actually need to pull it off? Is it a garden or more like a farm? These are the questions we are answering today in the context of guesstimation - a handy tool that helps us navigate the complexities of our world.
 
-In this 5th episode in the [series on guesstimation](/series/guesstimation), we'll explore energy through the realms of physics and biology to untangle the truth about self-sufficiency.
+In this 5th episode in the [series on guesstimation]({{< relref "/series/guesstimation" >}}), we'll explore energy through the realms of physics and biology to untangle the truth about self-sufficiency.
 
 We'll apply the principles of the geometric mean from [last time]({{< relref "/posts/pickle-power" >}}) and flex our guesstimation muscles to sift through real-world complexities and prevent ourselves from getting bogged down by overwhelming detail. 
 

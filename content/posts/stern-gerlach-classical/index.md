@@ -12,7 +12,7 @@ toc=true
 series=["Magnetic moments"]
 +++
 
-Welcome to the first in a [series of posts on magnetic moments](/series/magnetic-moments/). In this post where we're going to look at the Stern-Gerlach experiment from a classical perspective.
+Welcome to the first in a [series of posts on magnetic moments]({{< relref "/series/magnetic-moments/" >}}). In this post where we're going to look at the Stern-Gerlach experiment from a classical perspective.
 
 It was discovered experimentally, [in 1922 by Stern and Gerlach](https://www.feynmanlectures.caltech.edu/II_35.html#Ch35-S2) (SG), that the spin of an electron along any direction is quantised, taking values of either \\(\\hbar/2\\) or \\(-\\hbar/2\\). The experiment involved firing silver atoms into an inhomogeneous magnetic field and observing a splitting of the beam in the direction of the field inhomogeneity.
 

@@ -14,7 +14,7 @@ series = ["Guesstimation"]
 
 {{< youtube 0-kPSBO01Q0 >}}
 
-Welcome to post number 2 in this [series on guesstimation](/series/guesstimation). If this is your entry point into the world of guesstimation then please go back to the [first post]({{< relref "/posts/what-is-guesstimation" >}}) in this series to get some more context as to what we are trying to do in this series.
+Welcome to post number 2 in this [series on guesstimation]({{< relref "/series/guesstimation" >}}). If this is your entry point into the world of guesstimation then please go back to the [first post]({{< relref "/posts/what-is-guesstimation" >}}) in this series to get some more context as to what we are trying to do in this series.
 
 Today is all about doing your first guesstimate. We're going to estimate the distance to the centre of the Earth, using nothing but a bit of elementary maths and our everyday experiences. Intriguing, right?
 

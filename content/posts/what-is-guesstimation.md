@@ -13,7 +13,7 @@ series = ["Guesstimation"]
 
 {{< youtube 5z1J02xDpGg >}}
 
-Hi there and welcome to the first of a [series of posts on guesstimation](/series/guesstimation).
+Hi there and welcome to the first of a [series of posts on guesstimation]({{< relref "/series/guesstimation" >}}).
 
 In this series, I'll show you how **not** to stress about big, impossible sounding problems, like "how many people are picking their nose right now?". The secret is in approximations, not exact answers. You'll be amazed at what you can understand when precision takes a back seat.
 
