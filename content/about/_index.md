@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Always learning, always building"
 date = "2019-02-28"
 aliases = ["contact"]
 author = "Hugo Authors"
@@ -8,21 +8,21 @@ toc = true
 +++
 
 
-## What do I do?
+Absolutely, we can definitely incorporate that part back into the text. Here's a revised version:
 
-I [research](https://mattlilley.com/research), [educate](https://mattlilley.com/education) and [code](https://mattlilley.com/code).
+Hey there! I'm Matt, a physicist by training, a tech educator by profession, and an explorer at heart. I've spent a good chunk of my life delving into the mysteries of the universe, from working on stability problems in tokamaks during my PhD to investigating alternative fusion concepts at Imperial College London. I've even had the chance to present my research to hundreds at international conferences. But my love for learning and sharing knowledge isn't confined to the realm of academia.
 
-## What are my passions?
+In 2013, I decided to dip my toes into the world of technology. I taught myself how to code and started building some cross-platform web-apps. Now, I code because it's fun and I love tinkering with code to build things that I enjoy using. You can check out a few of my completed projects on my portfolio site, lilley.io.
 
-Physics has always been a big part of my life, whether it’s thinking about basic mechanics problems or trying to tackle the more global challenge of fusion energy.  Whatever the subject, I have always enjoyed exploring new ideas and found great pleasure in explaining things to people.
+Education is a big part of my life. I've been involved in it since 2005, teaching everything from advanced mathematical methods to software engineering. I've even run workshops to help business leaders understand new technologies like blockchain and machine learning. These days, I'm focused on helping people figure out if a career in tech is right for them through a weekend-long accelerated learning experience called Taste of Tech.
 
-## What is my story?
+In 2014, I noticed a shift in the research and education landscape. The rise of open access publishing, crowd funding, citizen science projects, and massive open online courses was pointing the way to a new model of research and education that is open to all. Inspired by this, I've been on a journey to figure out how to make open science and education financially sustainable for me. It's been a fun and interesting ride, involving everything from building web apps and tutoring to building cold fusion experiments and collaborating with researchers at MIT.
 
-In 2014, after spending 9 years working in academic institutions in the UK and overseas, I could see that the research and education landscape was beginning to shift.  The rise of open access publishing, crowd funding, citizen science projects and massive open online courses was pointing the way to a new model of research and education that is not restricted to the few, but open to all.   With the help of technology, anyone could make a difference – you just needed a computer, an internet connection and an inquisitive and open mind.
+But this blog isn't just about sharing what I know. It's about sparking curiosity, encouraging critical thinking, and having a bit of fun along the way. I've got a series on guesstimation that invites you to tackle some mind-boggling problems using nothing but approximation and logic. And if you've ever wondered about the feasibility of growing your own food or the scale of our waste problem, I've got some posts that might pique your interest.
 
-I wanted to be part of that movement and so, in the years since, I've been on a journey to figure out how to make open science and education financially sustainable for me. I'm not quite there yet, but the journey so far has been pretty fun and interesting. It's involved: building webapps, tutoring, data science, teaching business leaders about technology, building cold fusion experiments, collaborating with researchers at MIT and YouTube. As you can see, I genuinely do like exploring new things.
+So, whether you're a fellow scientist, a tech enthusiast, or just a curious mind, I invite you to join me on this journey of exploration and discovery. Let's learn, let's question, and let's push the boundaries of what's possible. Welcome to my blog!
 
-I'm always on the look out for new collaborations, so if you think I might be able to help with something you're currently building/developing then please feel free to [get in contact](https://mattlilley.com/contact).
+I'm always on the lookout for new collaborations, so if you think I might be able to help with something you're currently building or developing, please feel free to get in touch. I genuinely love exploring new things and can't wait to see where my journey takes me next.
 
 ## Contact
 
