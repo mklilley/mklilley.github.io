@@ -23,7 +23,9 @@ It took blood, sweat and tears 😫 , but we eventually finished the project (in
 
 but still almost no one downloaded Squidler 😔. Undeterred, we made big plans for Squidler as you can see from the [pitch deck](https://drive.google.com/file/d/0B61TfSXkBtmtVnpISmF5eF9keFE/view?resourcekey=0-VfwJQnTEUobQAoUnrngsXw) we made at the start of 2017:
 
+<span class="caption">You might need to enable cookies to see the PDF below</span>
 <iframe src="https://drive.google.com/file/d/0B61TfSXkBtmtVnpISmF5eF9keFE/preview" width="100%" height="480" allow="autoplay"></iframe>
+
 
 Although our plans never materialised (burn-out is a real thing), I'm still proud of what we did. We learnt a lot about coding and we learnt some valuable life lessons:
 
