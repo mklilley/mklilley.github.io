@@ -20,7 +20,7 @@ Maybe this kind of app did exist somewhere in the dark corners of the web 🤷�
 
 <!-- ![Flashee screenshot](flashee.png) -->
 
-{{<image-link src="flashee.png" href="https://flashee.lilley.io/" alt="TFlashee screenshot">}}
+{{<image-link src="flashee.png" href="https://flashee.lilley.io/" alt="Flashee screenshot">}}
 
 
 I built a basic version of [Flashee](https://flashee.lilley.io/) in the Christmas holidays of 2018. The idea was to help me remember physics facts. Since then, I've enjoyed using it every day as part of my casual physics morning routine 🤓 . I thought other people might also find it useful so I decided to clean it up and make it available to everyone for free.
