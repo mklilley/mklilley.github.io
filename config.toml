@@ -41,32 +41,32 @@ unsafe = true
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "/about/"
+url = "about"
 weight = -1
 [[menu.main]]
 identifier = "Science"
 name = "Science"
-url = "/tags/science"
+url = "tags/science"
 weight = 2
 [[menu.main]]
 identifier = "Technology"
 name = "Technology"
-url = "/tags/technology"
+url = "tags/technology"
 weight = 2
 [[menu.main]]
 identifier = "Education"
 name = "Education"
-url = "/tags/education"
+url = "tags/education"
 weight = 3
 [[menu.main]]
 identifier = "archive"
 name = "Archive"
-url = "/archive/"
+url = "archive"
 weight = 6
 [[menu.main]]
 identifier = "series"
 name = "Series"
-url = "/series"
+url = "series"
 weight = 5
 
 
