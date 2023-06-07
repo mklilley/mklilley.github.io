@@ -1,5 +1,5 @@
 +++
 title = "Solid state nuclear science"
-description = "A series of posts about solid state nuclear science"
+description = "Exploring the intersection of quantum, nano and nuclear science"
 header_img = "img/series.jpg"
 +++
