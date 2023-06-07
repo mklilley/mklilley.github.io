@@ -74,8 +74,10 @@
           {{ $description := .Description }}
           {{ if .IsHome }}
           {{ $description = .Site.Params.description }}
-          {{ end }}
+          <span class="subheading" style="font-weight:bold;font-size: 22px;">{{ $description }}</span>
+          {{else}}
           <span class="subheading">{{ $description }}</span>
+          {{ end }}
         </div>
       </div>
     </div>
