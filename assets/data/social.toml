@@ -38,9 +38,9 @@ weight = 8
 format = "https://gitlab.com/%v"
 icon = "fab fa-gitlab"
 
-[youtubelegacy]
+[youtube]
 weight = 9
-format = "https://www.youtube.com/user/%v"
+format = "https://www.youtube.com/%v"
 icon = "fab fa-youtube"
 
 [youtubecustom]
