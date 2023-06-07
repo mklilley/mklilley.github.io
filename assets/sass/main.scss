@@ -562,6 +562,10 @@ samp {
 
 // Header
 
+.dark-filter {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
 .intro-header {
   &.style-text {
     background: none;

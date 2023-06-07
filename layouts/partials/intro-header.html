@@ -9,8 +9,10 @@
 </style>
 {{ if $header_img }}
 <header class="intro-header ">
+  <div class="dark-filter">
 {{ else }}
 <header class="intro-header style-text">
+  <div>
 {{ end }}
   <div class="header-mask"></div>
   <div class="container">
@@ -50,12 +52,15 @@
       </div>
     </div>
   </div>
+</div>
 </header>
 {{ else }}
 {{ with $header_img }}
 <header class="intro-header" style="background-image: url('{{- . -}}')">
+  <div class="dark-filter">
 {{ else}}
 <header class="intro-header style-text">
+  <div>
 {{ end }}
   <div class="container">
     <div class="row">
@@ -75,5 +80,6 @@
       </div>
     </div>
   </div>
+</div>
 </header>
 {{ end }}
