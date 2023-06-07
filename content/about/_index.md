@@ -9,9 +9,23 @@ toc = true
 
 Hey there! I'm Matt, a physicist by training, a tech educator by profession, and an explorer at heart. I've spent a good chunk of my life delving into the mysteries of the universe, from working on stability problems in tokamaks during my PhD to investigating alternative fusion concepts at Imperial College London. I've even had the chance to present my research to hundreds at international conferences. But my love for learning and sharing knowledge isn't confined to the realm of academia.
 
-In 2013, I decided to dip my toes into the world of technology. I taught myself how to code and started building some cross-platform web-apps. Now, I code because it's fun and I love tinkering with code to build things that I enjoy using. You can check out a few of my completed projects on my portfolio site, lilley.io.
+In 2013, I decided to dip my toes into the world of technology. I taught myself how to code and started building some cross-platform web-apps. Now, I code because it's fun and I love tinkering with code to build things that I enjoy using. You can check out a few of my completed projects on my portfolio site, [lilley.io](https://lilley.io).
 
-Education is a big part of my life. I've been involved in it since 2005, teaching everything from advanced mathematical methods to software engineering. I've even run workshops to help business leaders understand new technologies like blockchain and machine learning. These days, I'm focused on helping people figure out if a career in tech is right for them through a weekend-long accelerated learning experience called Taste of Tech.
+
+
+{{< image-link src="lilleyio-logo.png" href="https://lilley.io" alt="Lilley.io logo" style="width:25%; margin:0 auto;" caption="Lilley.io">}}
+<span></span>
+
+Education is a big part of my life. I've been involved in it since 2005, teaching everything from advanced mathematical methods to software engineering. I've even run workshops to help business leaders understand new technologies like blockchain, machine learning and quantum computing. 
+
+{{< tweet user="feline_dacat" id="921333764965437443" >}}
+
+{{< tweet user="KathrynParsons" id="1017345651296886784" >}}
+
+{{< image-link src="machine-learning.png" href="https://www.linkedin.com/posts/molly-howes-3a76a71b2_theavivafoundry-skillsfest-activity-7064344887994802177-8dHB" alt="Matt Lilley teaching machine learning at Aviva" >}}
+
+
+These days, I'm focused on helping people figure out if a career in tech is right for them through a weekend-long accelerated learning experience called Taste of Tech.
 
 In 2014, I noticed a shift in the research and education landscape. The rise of open access publishing, crowd funding, citizen science projects, and massive open online courses was pointing the way to a new model of research and education that is open to all. Inspired by this, I've been on a journey to figure out how to make open science and education financially sustainable for me. It's been a fun and interesting ride, involving everything from building web apps and tutoring to building cold fusion experiments and collaborating with researchers at MIT.
 
