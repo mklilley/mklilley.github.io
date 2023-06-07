@@ -6,8 +6,7 @@ aliases = ["contact"]
 author = "Hugo Authors"
 +++
 
-
-![Profile image of Matt Lilley](/img/matt.jpg)
+![Profile image of Matt Lilley]({{< rel url="img/matt.jpg" >}})
 
 Hey there! I'm Matt, a physicist by training, a tech educator by profession, and an explorer at heart. I've spent a good chunk of my life delving into the mysteries of the universe, from working on stability problems in tokamaks during my PhD to investigating alternative fusion concepts at Imperial College London. I've even had the chance to present my research to hundreds at international conferences. But my love for learning and sharing knowledge isn't confined to the realm of academia.
 
