@@ -87,9 +87,8 @@ custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/cs
 enable = true
 gravatarEmail = ""
 # Overwritten by your gravatar image if `gravatarEmail` is filled
-avatar = "img/home-bg.jpg"
-bio = "a personal website"
-
+avatar = "img/matt.jpg"
+bio = "Always learning, always building."
 [params.social]
 email="info@mattlilley.com"
 twitter = "mklilley"
@@ -100,14 +99,6 @@ youtube = "mklilley"
 instagram="mattlilleycom"
 rss = true
 
-
-[[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
-
-[[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
 
 # See https://giscus.app/
 [params.giscus]
