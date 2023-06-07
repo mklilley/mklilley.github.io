@@ -6,7 +6,6 @@ tags = [
     "technology"
 ]
 description="Squidler is an app that a couple of friends and I dreamt up in October 2013. We wanted to turn messaging into a game. We didn't know how to code, so we taught ourselves by learning as we were building 👨‍💻 "
-header_img = "squidler.png"
 subtitle="Reflections on my first attempt at making a tech business"
 toc = true
 +++
