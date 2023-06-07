@@ -6,6 +6,9 @@ aliases = ["contact"]
 author = "Hugo Authors"
 +++
 
+
+![Profile image of Matt Lilley](/img/matt.jpg)
+
 Hey there! I'm Matt, a physicist by training, a tech educator by profession, and an explorer at heart. I've spent a good chunk of my life delving into the mysteries of the universe, from working on stability problems in tokamaks during my PhD to investigating alternative fusion concepts at Imperial College London. I've even had the chance to present my research to hundreds at international conferences. But my love for learning and sharing knowledge isn't confined to the realm of academia.
 
 In 2013, I decided to dip my toes into the world of technology. I taught myself how to code and started building some cross-platform web-apps. Now, I code because it's fun and I love tinkering with code to build things that I enjoy using. You can check out a few of my completed projects on my portfolio site, [lilley.io](https://lilley.io).
