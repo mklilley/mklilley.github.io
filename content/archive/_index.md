@@ -1,6 +1,5 @@
 ---
 title: Archive
-description: archive archive archive
-header_img: img/blackboard.jpg
-short: true
+description: All my posts in date order
+header_img: img/archive.jpg
 ---
