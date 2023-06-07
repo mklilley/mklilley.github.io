@@ -24,6 +24,6 @@ Today, I finally got around to performing a deuterium experiment using a stable 
 
 {{< tweet user="CasualPhysics" id="1301627284097585152" >}}
 
-Obviously I'm a bit disappointed, but really only a smidgen. I've learnt a TONNE since I [started this experimental adventure]({{< relref "/posts/cold-fusion-becoming-experimentalist/" >}}) and I've met some great collaborators along with way. Hugely thankful to Alan Smith and Ed Storms in particular - I would not have been able to get this far without your support 🙏.
+Obviously I'm a bit disappointed, but really only a smidgen. I've learnt a TONNE since I [started this experimental adventure]({{< relref "/posts/cold-fusion-becoming-experimentalist" >}}) and I've met some great collaborators along with way. Hugely thankful to Alan Smith and Ed Storms in particular - I would not have been able to get this far without your support 🙏.
 
 And how did the expenses stack up in the end I hear you say? You may recall, the original idea was the build something for under £1000. Including the heavy water, total money spent = £4300, total life experience gained = priceless 😊.

@@ -14,7 +14,7 @@ toc = true
 
 One of the physicists was also an entrepreneurial character. He politely critiqued my proposition of neededing £10M to make cold fusion a reality. To paraphrase, "No one is going to give you £10M. What can you demonstrate for £1000?" 😱 .
 
-Now, I'm not an experimentalist by trade (my [academic fusion research]({{< relref "/posts/magnetic-confinement-fusion-instabilities/" >}}) was largely theoretical) but £1000 seemed ludicrously small to me. I took his advice seriously though - he is an experimentalist after all (built his own Fusor like the one I was interested in [back in 2014]({{< relref "/posts/fusor-star-mode/" >}})). 
+Now, I'm not an experimentalist by trade (my [academic fusion research]({{< relref "/posts/magnetic-confinement-fusion-instabilities" >}}) was largely theoretical) but £1000 seemed ludicrously small to me. I took his advice seriously though - he is an experimentalist after all (built his own Fusor like the one I was interested in [back in 2014]({{< relref "/posts/fusor-star-mode" >}})). 
 
 After digging around in the literature I came across work of Les Case [^1]<sup>,</sup>[^2]<sup>,</sup>[^3]. He made cold fusion happen in a pressurised container of deuterium gas at 3.4 atmospheres at 200C with palladium on coconut shell carbon. The [set-up](http://www.lenr-canr.org/acrobat/MalloveEreproducib.pdf) seemed "simple":
 
