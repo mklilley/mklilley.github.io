@@ -25,14 +25,11 @@ Today, cold fusion research is often called [Low Energy Nuclear Reactions](http
 
 As with many people, cold fusion was thrust into my awareness in 2011 when [Andrea Rossi claimed to have demonstrated cold fusion](https://phys.org/news/2011-01-italian-scientists-cold-fusion-video.html) using nickel and hydrogen. Preoccupied by my own hot fusion research I didn't pay much attention to the story.
 
-Cold fusion story came back to me at the end of 2015 when a friend shared the book [Excess Heat: Why Cold Fusion Research Prevailed](https://newenergytimes.com/v2/books/excessheat/ExcessHeat.shtml) by Beaudette. The provocative title notwithstanding, this book blew my mind and I became convinced this was an area of research that I wanted to be part of. High risk yes, but the potential was far greater than the hot fusion research that I'd previously been involved in. Home sized reactors didn't seem out of the question. My friends got so excited that in 2016 we [pitched to some business types](https://drive.google.com/file/d/0B61TfSXkBtmtNTZ3QnBxUV96TVE/view?resourcekey=0-hCFRjaFtbjG5c5xHQtmI9A) in an attempt to get money to fund this.
+The cold fusion story came back to me at the end of 2015 when a friend shared the book [Excess Heat: Why Cold Fusion Research Prevailed](https://newenergytimes.com/v2/books/excessheat/ExcessHeat.shtml) by Beaudette. The provocative title notwithstanding, this book blew my mind and I became convinced this was an area of research that I wanted to be part of. High risk yes, but the potential seemed far greater than the hot fusion research that I'd previously been involved in. For example, home sized reactors didn't seem out of the question 😱. My friends and I got so excited that in 2016 we pitched to some "business types" in an attempt to raise some cold fusion money.
 
-<!-- <iframe src="https://drive.google.com/file/d/0B61TfSXkBtmtNTZ3QnBxUV96TVE/preview?resourceKey=0-hCFRjaFtbjG5c5xHQtmI9A" width="100%" height="480" allow="autoplay"></iframe> -->
+It's now 2017 and after finishing a long standing tech project, Squidler, I'm ready to take another look at cold fusion. My first action item is to reach out to some researchers in the field. On my list, Peter Hagelstein and Michae McKubre. Let's hope they respond.
 
-
-It's now 2017 and after finishing a long standing tech project Squidler I'm ready to commit more seriesly to this. First action item is to reach out to some researchers in the field. On my list, Peter Hagelstein and Michae McKubre.
-
-TBC
+Wish me luck.
 
 
 [^1]: J. Tandberg, “Method for producing Helium,” Swedish patent application (1927). 
