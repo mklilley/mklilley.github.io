@@ -10,7 +10,7 @@ series = ["Cold fusion (LENR)"]
 toc = true
 +++
 
-Since my [last post back in April](/posts/cold-fusion-history/), I've been trying my best to navigate the labyrinth of cold fusion (aka low energy nuclear reaction - LENR) literature in my spare time. It's always difficult to pull together the most important bits of research in a field to which you are a newbie, but cold fusion is particularly difficult. Experiments are performed by people with varying degrees of experience/resources and new theories can't be properly assessed because the required experimental data is often not available. This is, of course, to be expected from a field that's existed on shoe string budget for decades.
+Since my [last post back in April]({{< relref "/posts/cold-fusion-history/" >}}), I've been trying my best to navigate the labyrinth of cold fusion (aka low energy nuclear reaction - LENR) literature in my spare time. It's always difficult to pull together the most important bits of research in a field to which you are a newbie, but cold fusion is particularly difficult. Experiments are performed by people with varying degrees of experience/resources and new theories can't be properly assessed because the required experimental data is often not available. This is, of course, to be expected from a field that's existed on shoe string budget for decades.
 
 Although I've not yet compiled a solid list of "go to" papers, what I've gleaned so far is that although not all of the experimental reports of cold fusion live up to scientific standards, collectively they represent a body of formal and informal knowledge not to be ignored. As of today, it appears that:
 - The effect is not limited to electrolysis

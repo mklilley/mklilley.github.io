@@ -18,7 +18,7 @@ Picture this – you're in a bustling city, London, to be precise, with a pickle
 
 Hello there 👋 and welcome the fourth post in the [series on guesstimation](/series/guesstimation) where we tackle seemingly impossible problems using the power of approximation, logic, and a sprinkling of creativity.
 
-Just like [last time](/posts/staggering-scales), we've got a new tool to play with - the geometric mean - and it's going to help you grapple with that universal "I have no idea" reflex. You know the one – that moment when you're faced with a problem so immense or bizarre that you want to throw your hands up and surrender to the impossible 😫. No longer. The geometric mean will change how you view problems, tackling them from new angles, and seeing potential solutions where before you only saw dead-ends.
+Just like [last time]({{< relref "/posts/staggering-scales" >}}), we've got a new tool to play with - the geometric mean - and it's going to help you grapple with that universal "I have no idea" reflex. You know the one – that moment when you're faced with a problem so immense or bizarre that you want to throw your hands up and surrender to the impossible 😫. No longer. The geometric mean will change how you view problems, tackling them from new angles, and seeing potential solutions where before you only saw dead-ends.
 
 And here's the big secret: it's not all about pickles 😉. This exploration forms the foundation for some truly profound inquiries. Today, it's about food – specifically pickles. But next time, we'll be exploring if we could grow our own food, touching on sustainability and self-sufficiency, topics increasingly vital in our ever-changing world.
 

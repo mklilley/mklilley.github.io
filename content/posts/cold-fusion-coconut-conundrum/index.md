@@ -10,7 +10,7 @@ series = ["Cold fusion (LENR)"]
 toc = true
 +++
 
-If you've been following me [@CasualPhysics](https://twitter.com/CasualPhysics) on Twitter, then you'll have seen the rather large spanner in the works for my [Les Case replication experiments](/posts/cold-fusion-becoming-experimentalist).
+If you've been following me [@CasualPhysics](https://twitter.com/CasualPhysics) on Twitter, then you'll have seen the rather large spanner in the works for my [Les Case replication experiments]({{< relref "/posts/cold-fusion-becoming-experimentalist" >}}).
 
 {{< tweet user="CasualPhysics" id="1153566250439720961" >}}
 

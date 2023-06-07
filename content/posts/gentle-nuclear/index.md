@@ -13,7 +13,7 @@ series = ["Solid state nuclear science"]
 
 Hey everyone 👋 and welcome to this new series of posts on [Solid state nuclear science](/series/solid-state-nuclear-science).
 
-For those following the series of posts about [my cold fusion experiments](/series/cold-fusion-lenr), you may recall that Florian Metzler and I mused over the idea of doing some theory/modelling work during my [visit to MIT last year](/posts/cold-fusion-road-deuterium). Since the start of this year, a small group of us have been meeting once a week and attempting to gain a better understanding of the proposed physical mechanisms for cold fusion (LENR). 
+For those following the series of posts about [my cold fusion experiments](/series/cold-fusion-lenr), you may recall that Florian Metzler and I mused over the idea of doing some theory/modelling work during my [visit to MIT last year]({{< relref "/posts/cold-fusion-road-deuterium" >}}). Since the start of this year, a small group of us have been meeting once a week and attempting to gain a better understanding of the proposed physical mechanisms for cold fusion (LENR). 
 
 Through our discussions, it's becoming clear that understanding the various anomalies surrounding cold fusion requires an interdisciplinary approach that we call `solid-state nuclear science (SSNS)`.
 

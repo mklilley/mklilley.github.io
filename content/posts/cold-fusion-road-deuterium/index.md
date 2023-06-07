@@ -11,7 +11,7 @@ toc = true
 +++
 
 
-It's been 3 months since I did my [first cold fusion experiment](/posts/cold-fusion-first-experiment). If you've been following @CasualPhysics on [YouTube](https://www.youtube.com/playlist?list=PLjvHqB5pIFEzQ7qfOdoxW60B0F7OThnW-) and [Twitter](https://twitter.com/CasualPhysics) then you'll know I've been busy. 
+It's been 3 months since I did my [first cold fusion experiment]({{< relref "/posts/cold-fusion-first-experiment" >}}). If you've been following @CasualPhysics on [YouTube](https://www.youtube.com/playlist?list=PLjvHqB5pIFEzQ7qfOdoxW60B0F7OThnW-) and [Twitter](https://twitter.com/CasualPhysics) then you'll know I've been busy. 
 
 I open-sourced all my cold fusion work on the [lilley-lenr Gitlab repository](https://gitlab.com/mklilley/lenr) and moved my [experimental log](https://gitlab.com/mklilley/lenr/-/issues) there too.
 

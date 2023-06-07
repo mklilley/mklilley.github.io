@@ -10,7 +10,7 @@ series = ["Cold fusion (LENR)"]
 toc = true
 +++
 
-It was all going so well! Thanks to [generous donations](/posts/cold-fusion-road-deuterium), I had the heavy water needed to make deuterium for my next set of cold fusion experiments and by 11th December 2019 my deuterium generator was cheerfully pumping out deuterium on demand 🥳.
+It was all going so well! Thanks to [generous donations]({{< relref "/posts/cold-fusion-road-deuterium" >}}), I had the heavy water needed to make deuterium for my next set of cold fusion experiments and by 11th December 2019 my deuterium generator was cheerfully pumping out deuterium on demand 🥳.
 
 {{< tweet user="CasualPhysics" id="1204846403576631296" >}}
 

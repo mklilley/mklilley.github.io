@@ -14,7 +14,7 @@ math=true
 
 ## Reframing nuclear fusion reactions
 
-A couple of months ago I posted some details about a recent [Marie Curie fellowship proposal](/posts/nuclear-ret/) that I submitted. I can totally understand if you just glossed over it - it was a lot 😣. The most important piece of physics that's relevant to this post is:
+A couple of months ago I posted some details about a recent [Marie Curie fellowship proposal]({{< relref "/posts/nuclear-ret/" >}}) that I submitted. I can totally understand if you just glossed over it - it was a lot 😣. The most important piece of physics that's relevant to this post is:
 
 > Nobel laureate Julian Schwinger identified in 1991 that the nuclear fusion process can be expressed in a typical framing of quantum electrodynamics (QED): a two-state system. For instance, the D+D → <sup>4</sup>He reaction is then viewed as a two-state system where the excited state |D<sub>2</sub>> in the form of a deuterium molecule can decay to a lower-energy ground state |<sup>4</sup>He> with the simultaneous release of 24 MeV of energy (from the mass defect). In Schwinger’s framing of the fusion process as a two-state system, where the fusion event represents a state transition, well-known toolsets of QED can be applied.
 

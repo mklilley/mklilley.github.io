@@ -14,11 +14,11 @@ series = ["Guesstimation"]
 {{< youtube eGiIiY9ta70 >}}
 
 
-Hello, curious minds! Welcome to post number 3 in this [series on guesstimation](/series/guesstimation). If this is your entry point into the world of guesstimation then please go back to the [first post](/posts/what-is-guesstimation) in this series to get some more context as to what we are trying to do in this series.
+Hello, curious minds! Welcome to post number 3 in this [series on guesstimation](/series/guesstimation). If this is your entry point into the world of guesstimation then please go back to the [first post]({{< relref "/posts/what-is-guesstimation" >}}) in this series to get some more context as to what we are trying to do in this series.
 
 Today, we're embarking on an exciting scientific journey that will take us from the dizzying heights of our magnificent planet Earth down to the infinitesimally small world of atoms. Our mission? To unravel a mind-boggling question: How many atoms are there on Earth? 🌍
 
-We'll be using guesstimation as a tool of choice for solving this "impossible problem". As we saw in [the last post](/posts/guesstimating-the-earth), guesstimation our best friend when faced with problems that seem too big to tackle. We're dealing with a colossal task here. The Earth is huge, atoms are tiny, and the sheer number we're after is so enormous, it's beyond our everyday comprehension. But, that's where the fun begins 🤓.
+We'll be using guesstimation as a tool of choice for solving this "impossible problem". As we saw in [the last post]({{< relref "/posts/guesstimating-the-earth" >}}), guesstimation our best friend when faced with problems that seem too big to tackle. We're dealing with a colossal task here. The Earth is huge, atoms are tiny, and the sheer number we're after is so enormous, it's beyond our everyday comprehension. But, that's where the fun begins 🤓.
 
 And, we get to add another tool to our toolbox today - scientific notation[^1]. It might sound a little complicated if you're new to it, but trust me, you'll soon see its charm. It's a tool that enables us to write enormous or minuscule numbers in a compact form, making our calculations not only manageable but also enjoyable.
 

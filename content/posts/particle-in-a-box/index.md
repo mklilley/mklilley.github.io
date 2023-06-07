@@ -13,7 +13,7 @@ toc = true
 
 This year, I've spent a lot of time diving into the world of two state quantum systems as a model to help understand nuclear reactions in sold state, in particular those reported in cold fusion (LENR) experiments.
 
-As we described [last time](/posts/two-state-quantum-systems), this is not the typical way to view nuclear reactions. It's more common to think about them as a quantum tunnelling problem as originally set out by Gamow [^1].
+As we described [last time]({{< relref "/posts/two-state-quantum-systems" >}}), this is not the typical way to view nuclear reactions. It's more common to think about them as a quantum tunnelling problem as originally set out by Gamow [^1].
 
 In order to make the connection between these two ways of viewing nuclear reactions, I'm creating another set of computational tutorials to complement the ones being made over at the [two-state-systems repo](https://github.com/project-ida/two-state-quantum-systems).
 
