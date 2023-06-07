@@ -33,7 +33,7 @@
             
               {{ if $series }}
   
-                  Part of the <a style="color:#337ab7;" href="{{ "/" | relLangURL }}series/{{ $term | urlize }}/">{{ $term }}</a> series
+                  Part of the <a style="color:#337ab7;" href="{{ (printf "series/%s" $term | urlize) | relURL }}">{{ $term }}</a> series
   
     
               {{ end }}
