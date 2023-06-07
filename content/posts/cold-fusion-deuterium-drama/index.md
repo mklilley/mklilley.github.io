@@ -7,6 +7,7 @@ tags = [
 ]
 subtitle="Unforeseen chemistry challenges in cold fusion"
 series = ["Cold fusion (LENR)"]
+description="It was all going so well! Alas, I had not factored in some important chemistry that slowly clogged up my deutereium generator over the Christmas break 😫."
 toc = true
 +++
 

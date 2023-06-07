@@ -7,6 +7,7 @@ tags = [
 ]
 subtitle="Prosasic explanation of my 'success'"
 series = ["Cold fusion (LENR)"]
+description="It's been some months since the Deuterium drama almost put a stop to my cold fusion experiments. Luckily, I was still able to run a couple of experiments in January and the results were extremely encouraging."
 toc = true
 +++
 

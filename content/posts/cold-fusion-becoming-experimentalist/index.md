@@ -7,12 +7,13 @@ tags = [
 ]
 subtitle="My foray into cold fusion experiments"
 series = ["Cold fusion (LENR)"]
+description="A month ago, I committed myself to making some local cold fusion connections by placing somewhat cryptic posters in London university physics departments. One of the physicists was also an entrepreneurial character. He politely critiqued my proposition of needing £10M to make cold fusion a reality. To paraphrase, \"No one is going to give you £10M. What can you demonstrate for £1000?\" 😱 ."
 toc = true
 +++
 
 [A month ago]({{< relref "/posts/cold-fusion-rabbit-hole" >}}), I committed myself to making some local cold fusion connections by placing somewhat cryptic posters in London university physics departments. I was delighted to receive some emails and had some great follow up conversations with curious, open-minded physicists.
 
-One of the physicists was also an entrepreneurial character. He politely critiqued my proposition of neededing £10M to make cold fusion a reality. To paraphrase, "No one is going to give you £10M. What can you demonstrate for £1000?" 😱 .
+One of the physicists was also an entrepreneurial character. He politely critiqued my proposition of needing £10M to make cold fusion a reality. To paraphrase, "No one is going to give you £10M. What can you demonstrate for £1000?" 😱 .
 
 Now, I'm not an experimentalist by trade (my [academic fusion research]({{< relref "/posts/magnetic-confinement-fusion-instabilities" >}}) was largely theoretical) but £1000 seemed ludicrously small to me. I took his advice seriously though - he is an experimentalist after all (built his own Fusor like the one I was interested in [back in 2014]({{< relref "/posts/fusor-star-mode" >}})). 
 

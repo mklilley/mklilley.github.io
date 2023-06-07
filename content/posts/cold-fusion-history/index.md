@@ -7,6 +7,7 @@ tags = [
 ]
 subtitle="A very brief history"
 series = ["Cold fusion (LENR)"]
+description="As with many people, cold fusion was thrust into my awareness in 2011 when Andrea Rossi claimed to have demonstrated cold fusion using nickel and hydrogen. Preoccupied by my own hot fusion research I didn't pay much attention to the story."
 toc = true
 +++
 
@@ -22,7 +23,7 @@ Despite the words of Nobel prize winner and theoretical nuclear physicist, Julia
 
 Today, cold fusion research is often called [Low Energy Nuclear Reactions](https://lenr-canr.org/) (LENR). Reports of anomalies in metal-hydrogen system continue to accumulate but we still don't have a fully reproducible experiment - why? That's the million dollar question! And I'd like to be part of the effort to answer it.
 
-As with many people, cold fusion first came into my awareness in 2011 when [Andrea Rossi claimed to have demonstrated cold fusion](https://phys.org/news/2011-01-italian-scientists-cold-fusion-video.html) using nickel and hydrogen. Preocupied by my own hot fusion research I didn't pay much attention to the story.
+As with many people, cold fusion was thrust into my awareness in 2011 when [Andrea Rossi claimed to have demonstrated cold fusion](https://phys.org/news/2011-01-italian-scientists-cold-fusion-video.html) using nickel and hydrogen. Preoccupied by my own hot fusion research I didn't pay much attention to the story.
 
 Cold fusion story came back to me at the end of 2015 when a friend shared the book [Excess Heat: Why Cold Fusion Research Prevailed](https://newenergytimes.com/v2/books/excessheat/ExcessHeat.shtml) by Beaudette. The provocative title notwithstanding, this book blew my mind and I became convinced this was an area of research that I wanted to be part of. High risk yes, but the potential was far greater than the hot fusion research that I'd previously been involved in. Home sized reactors didn't seem out of the question. My friends got so excited that in 2016 we [pitched to some business types](https://drive.google.com/file/d/0B61TfSXkBtmtNTZ3QnBxUV96TVE/view?resourcekey=0-hCFRjaFtbjG5c5xHQtmI9A) in an attempt to get money to fund this.
 

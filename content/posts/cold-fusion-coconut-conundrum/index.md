@@ -7,6 +7,7 @@ tags = [
 ]
 subtitle="Pivoting my cold fusion experiments"
 series = ["Cold fusion (LENR)"]
+description="If you've been following me @CasualPhysics on Twitter, then you will have seen the rather large spanner in the works for my Les Case replication experiments."
 toc = true
 +++
 
@@ -22,7 +23,7 @@ Les Case had friends who worked at United catalysts. They gave him a good deal t
 
 So, what does this all mean:
 1. Firstly, perhaps it's not the palladium that's special but the substrate it's on - in this case the coconut. Storms has his own ideas that nano sized cracks are an essential part of the mechanism of cold fusion.
-2. I need to find another material to use for my experiments otherwse I'm dead in the wateer
+2. I need to find another material to use for my experiments otherwise I'm dead in the water
 
 I'm not in any position to figure out if 1 is true. On 2, luckily there has been a recent flurry of activity on the [LENR forum around some recent experiments from Mizuo](https://www.lenr-forum.com/forum/thread/6017-mizuno-replication-and-materials-only/?pageNo=1). Much like the Les Case experiment, Mizuno is working with a gas loaded system. Mizuno also claims large amounts of excess heat from his reactor.
 

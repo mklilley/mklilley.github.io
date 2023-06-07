@@ -7,6 +7,7 @@ tags = [
 ]
 subtitle="It's been a long time coming"
 series = ["Cold fusion (LENR)"]
+description="Yesterday I did my first cold fusion experiment. I've been working up to this since 2017. Needless to say I was incredibly excited. Did I make cold fusion happen? Did I manage to stick to my £1000 budget?"
 toc = true
 +++
 
@@ -26,7 +27,7 @@ and you can see what my cold fusion reactor looks like and how it works:
 
 Two big questions remain:
 1. Did I make cold fusion happen?
-2. Did I manage to stick to my £1000 budget.
+2. Did I manage to stick to my £1000 budget?
 
 My spending is currently sitting at around £2000. I'm not too upset about it though. I'm new to this whole experimental game and I know a lot of the overspending was because I was learning as I was doing.
 

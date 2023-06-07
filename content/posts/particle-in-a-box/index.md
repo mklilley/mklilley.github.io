@@ -7,7 +7,7 @@ tags = [
 ]
 subtitle="How do quantum particles move"
 series = ["Solid state nuclear science"]
-description= "It's common to think about nuclear reactions as a quantum tunnelling problem as originally set out by Gamow. To connection to the 'two state systems' model, I'm creating another set of computational tutorials"
+description= "This collection of tutorials is dedicated to exploring the quantum behaviour of particles moving under the influence of a confining potential - a \"quantum box\". "
 toc = true
 +++
 
