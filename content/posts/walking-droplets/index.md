@@ -3,7 +3,7 @@ author = "Matt Lilley"
 title = "Walking droplets"
 date = "2018-07-31"
 description = "What's really interesting about these fluid dynamics experiments is that they appear to produce similar behaviour as seen in quantum mechanics 🤯. This result isn't new either - it was first observed in 2006."
-subtitle="Quantum behaviour from a classical system"
+subtitle="Quantum behaviour from a classical system?"
 tags = [
     "science"
 ]

@@ -5,7 +5,7 @@ date = "2020-09-03"
 tags = [
     "science"
 ]
-subtitle="Prosasic explanation of 'success'"
+subtitle="Prosasic explanation of my 'success'"
 series = ["Cold fusion (LENR)"]
 toc = true
 +++
