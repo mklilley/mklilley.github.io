@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mklilley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mattlilley.com
+  * I am mklilley (https://keybase.io/mklilley) on keybase.
+  * I have a public key ASD_g34gIwaS1MsmzhMiRvy1O2mal_3-Vo_EQF6zeSGTSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fa73874244da0c452e5e420f260a748c6d41893e941bf268bde689abce4bc4430a",
+      "host": "keybase.io",
+      "kid": "0120ff837e20230692d4cb26ce132246fcb53b699a97fdfe568fc4405eb37921934a0a",
+      "uid": "2ef4b46f49bb8cc6ff49d8ca91707319",
+      "username": "mklilley"
+    },
+    "merkle_root": {
+      "ctime": 1521585011,
+      "hash": "ca3d6057ffce6dabec4561a0b4b730aa6eaccccc9b14b1b8eb769cbb3f3d687cf16d3b1ee78566acc52598d675d43787f6f0bb28398ae8412cea50c2bb945084",
+      "hash_meta": "8e2eac302cfa22101a0e2aa056b490f7037dbc96a5bb032edee893baa1228ed0",
+      "seqno": 2263671
+    },
+    "service": {
+      "hostname": "mattlilley.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521585032,
+  "expire_in": 504576000,
+  "prev": "bb31f7251b4239405e25b0e0e0c8b4bfacdbb3b51ef92c40b3ff12fcbda4f496",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/4N+ICMGktTLJs4TIkb8tTtpmpf9/laPxEBes3khk0oKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmE3Mzg3NDI0NGRhMGM0NTJlNWU0MjBmMjYwYTc0OGM2ZDQxODkzZTk0MWJmMjY4YmRlNjg5YWJjZTRiYzQ0MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmY4MzdlMjAyMzA2OTJkNGNiMjZjZTEzMjI0NmZjYjUzYjY5OWE5N2ZkZmU1NjhmYzQ0MDVlYjM3OTIxOTM0YTBhIiwidWlkIjoiMmVmNGI0NmY0OWJiOGNjNmZmNDlkOGNhOTE3MDczMTkiLCJ1c2VybmFtZSI6Im1rbGlsbGV5In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIxNTg1MDExLCJoYXNoIjoiY2EzZDYwNTdmZmNlNmRhYmVjNDU2MWEwYjRiNzMwYWE2ZWFjY2NjYzliMTRiMWI4ZWI3NjljYmIzZjNkNjg3Y2YxNmQzYjFlZTc4NTY2YWNjNTI1OThkNjc1ZDQzNzg3ZjZmMGJiMjgzOThhZTg0MTJjZWE1MGMyYmI5NDUwODQiLCJoYXNoX21ldGEiOiI4ZTJlYWMzMDJjZmEyMjEwMWEwZTJhYTA1NmI0OTBmNzAzN2RiYzk2YTViYjAzMmVkZWU4OTNiYWExMjI4ZWQwIiwic2Vxbm8iOjIyNjM2NzF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWF0dGxpbGxleS5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMTU4NTAzMiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJiYjMxZjcyNTFiNDIzOTQwNWUyNWIwZTBlMGM4YjRiZmFjZGJiM2I1MWVmOTJjNDBiM2ZmMTJmY2JkYTRmNDk2Iiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAPu3jSubv+IsxvSvC2TtzhzB3AhyOEW2CPAXn9vfEbqgwPBnJZKeOZRw/bjEgMavzwur1zDGyJuYfSh8rPPXFCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAN0L1fMw05Jm0zOrY2L2fj07AbEXMxImLP2nqyJxHH8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mklilley
+
+==================================================================
