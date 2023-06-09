@@ -10,6 +10,10 @@ tags = [
 toc = true
 +++
 
+I've spent 9 years working in academia on nuclear fusion research. I got my PhD from Imperial College and then spent some time aboard at Chalmers University of Technology in Sweden. A lot of my research has been done in collaboration with the Culham Centre for Fusion Energy in the UK.
+
+You can learn more about my research by checking out some of my peer reviewed publications below, [downloading my CV](lilleyCV.pdf) and [visiting my Google Scholar page](https://scholar.google.co.uk/citations?user=dJewyK0AAAAJ).
+
 ## Magnetic confinement fusion
 
 Magnetic confinement fusion relies on the idea that the motion of charged particles is restricted across regions of high magnetic field (due to the Lorentz force). A “magnetic bottle” can therefore be used to suspended a "soup" of positive and negative charges (plasma) away from cold material surfaces – allowing extremely high temperatures to be sustained (roughly 150,000,000 C).  Under such conditions, charged ions can overcome their mutual repulsion allowing nuclear fusion to occur – releasing energy in the process.  Various bottles have been proposed over the years but the torus (doughnut) is the shape currently favoured by the international fusion community and specifically the tokamak is the device currently receiving most attention (see [ITER project](https://en.wikipedia.org/wiki/ITER)).
@@ -26,8 +30,6 @@ A magnetically confined neutral plasma cannot be in thermodynamic equilibrium 
 [^1]: [D. H. E. Dubin and T. M. O’Neil, Reviews of Modern Physics, 71, 87, (1999)](https://dx.doi.org/10.1103/RevModPhys.71.87)
 [^2]:  [W. W. Heidbrink Physics of Plasmas 15, 055501, (2008)](https://dx.doi.org/10.1063/1.2838239)
 [^3]: [W. W. Heidbrink and G.J. Sadler, Nuclear Fusion, 34, 535, (1994)](https://dx.doi.org/10.1088/0029-5515/34/4/I07)
-
-You can learn more about my research by checking out some of my peer reviewed publications below, [downloading my CV](/lilleyCV.pdf) and [visiting my Google Scholar page](https://scholar.google.co.uk/citations?user=dJewyK0AAAAJ).
 
 ### Selected publications
 - [Formation of Phase Space Holes and Clumps, Physical Review Letters, (2014)](https://dx.doi.org/10.1103/PhysRevLett.112.155002)
