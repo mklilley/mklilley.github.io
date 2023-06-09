@@ -4,8 +4,14 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1
       postlist-container">
-      {{ range .Pages }}
-      {{ .Render "summary" }}
+      {{ range .Pages.GroupByDate "2006" }}
+      <section class="mini-post-list">
+        <span class="fa listing-seperator">
+          <span class="tag-text">{{ .Key }}</span></span>
+          {{ range .Pages }}
+          {{ .Render "summary" }}
+          {{ end }}
+      </section>
       {{ end }}
     </div>
   </div>
