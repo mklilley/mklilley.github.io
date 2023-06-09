@@ -8,16 +8,17 @@ author = "Hugo Authors"
 
 ![Profile image of Matt Lilley]({{< rel url="img/matt.jpg" >}})
 
-Hey there! I'm Matt, a physicist by training, a tech educator by profession, and an explorer at heart. I've spent a good chunk of my life delving into the mysteries of the universe, from working on stability problems in tokamaks during my PhD to investigating alternative fusion concepts at Imperial College London. I've even had the chance to present my research to hundreds at international conferences. But my love for learning and sharing knowledge isn't confined to the realm of academia.
+Hey there 👋! 
 
-In 2013, I decided to dip my toes into the world of technology. I taught myself how to code and started building some cross-platform web-apps. Now, I code because it's fun and I love tinkering with code to build things that I enjoy using. You can check out a few of my completed projects on my portfolio site, [lilley.io](https://lilley.io).
+Welcome to my blog, a place where curiosity reigns and learning never ends. Here, I delve into a wide array of topics around [science]({{< relref "/tags/science" >}}), [technology]({{< relref "/tags/technology" >}}) and [education]({{< relref "/tags/education" >}}). From the mysteries of [quantum physics]({{< relref "/series/solid-state-nuclear-science" >}}) and the challenges of [cold fusion]({{< relref "/series/cold-fusion-lenr" >}}), to [tech education]({{< relref "/posts/taste-of-tech" >}}) and the [potential of GPT]({{< relref "/tags/gpt" >}}). But, this blog isn't just about sharing what I know. I enjoy sparking curiosity, encouraging critical thinking, and having a bit of fun along the way. For example, I've got a [series on guesstimation]({{< relref "/series/guesstimation" >}}) that invites you to solve seemingly impossible problems like "how many people are picking their nose right now?" 🤔.
 
+Now, you might be wondering, who's the person behind all this? Well, that's me, Matt Lilley. I'm a physicist by training, a tech educator by profession, and an explorer at heart. I spent 9 years in academia [working on fusion energy research]({{< relref "/posts/magnetic-confinement-fusion-instabilities" >}}), presenting at international conferences and lecturing to PhD and masters students on advanced mathematical methods and electromagnetic waves 🤓.
 
+But, my journey didn't stop at academia. In 2013, inspired by the idea of becoming a self-funded researcher, I entered world of technology. I taught myself how to code and built cross platform web-apps like [Squidler]({{< relref "/posts/squidler" >}}). I've continued to build all kinds of things since then: productivity tools like [Slidee]({{< relref "/posts/slidee" >}}), [Swipee]({{< relref "/posts/swipee" >}}) and [Flashee]({{< relref "/posts/flashee" >}}), [automation bots]({{< relref "/posts/back-in-stock" >}}) and [interactive simulations]({{< relref "/posts/constrained-particles" >}}). I code today because it's fun - there's nothing quite like the thrill of seeing your code creations come to life! You can check out a few of my completed projects on my portfolio site, [lilley.io](https://lilley.io).
 
 {{< image-link src="lilleyio-logo.png" href="https://lilley.io" alt="Lilley.io logo" style="width:25%; margin:0 auto;" caption="Lilley.io">}}
-<span></span>
 
-Education is a big part of my life. I've been involved in it since 2005, teaching everything from advanced mathematical methods to software engineering. I've even run workshops to help business leaders understand new technologies like blockchain, machine learning and quantum computing. 
+Along the way, I discoverd that I don't just enjoy building with tech, I'm also drawn to talking about tech. Since 2017, I've worked in tech education, running accelerated learning experiences to business leaders on all kinds of tech topics, like blockchain, machine learning and quantum computing. 
 
 {{< tweet user="feline_dacat" id="921333764965437443" >}}
 
@@ -25,29 +26,22 @@ Education is a big part of my life. I've been involved in it since 2005, teachin
 
 {{< image-link src="machine-learning.png" href="https://www.linkedin.com/posts/molly-howes-3a76a71b2_theavivafoundry-skillsfest-activity-7064344887994802177-8dHB" alt="Matt Lilley teaching machine learning at Aviva" >}}
 
+I’ve also helped people launch their careers in tech (student recommendations on [my LinkedIn](https://www.linkedin.com/in/matthew-lilley/)) and have launched a weekend-long learning experience called [Taste of Tech]({{< relref "/posts/taste-of-tech" >}}), designed to help people figure out if a career in tech is right for them.
 
-These days, I'm focused on helping people figure out if a career in tech is right for them through a weekend-long accelerated learning experience called Taste of Tech.
-
-In 2014, I noticed a shift in the research and education landscape. The rise of open access publishing, crowd funding, citizen science projects, and massive open online courses was pointing the way to a new model of research and education that is open to all. Inspired by this, I've been on a journey to figure out how to make open science and education financially sustainable for me. It's been a fun and interesting ride, involving everything from building web apps and tutoring to building cold fusion experiments and collaborating with researchers at MIT.
-
-But this blog isn't just about sharing what I know. It's about sparking curiosity, encouraging critical thinking, and having a bit of fun along the way. I've got a series on guesstimation that invites you to tackle some mind-boggling problems using nothing but approximation and logic. And if you've ever wondered about the feasibility of growing your own food or the scale of our waste problem, I've got some posts that might pique your interest.
-
-So, whether you're a fellow scientist, a tech enthusiast, or just a curious mind, I invite you to join me on this journey of exploration and discovery. Let's learn, let's question, and let's push the boundaries of what's possible. Welcome to my blog!
-
-I'm always on the lookout for new collaborations, so if you think I might be able to help with something you're currently building or developing, please feel free to get in touch. I genuinely love exploring new things and can't wait to see where my journey takes me next.
+So, whether you're a fellow scientist, a tech enthusiast, or just a curious mind, I invite you to join me on this journey of exploration and discovery. Let's learn, let's build, and let's push the boundaries of what's possible.
+ 
 
 ## Contact
 
-Whether your needs are educational, research focussed, or if you are just interested in a bit of casual physics, please feel free to get in touch.
-
 email: [info@mattlilley.com](mailto:info@mattlilley.com)
 
-Twitter: [@CasualPhysics](https://twitter.com/CasualPhysics) & [@mklilley](https://twitter.com/mklilley)
+LinkedIn: [Matthew Lilley](https://www.linkedin.com/in/matthew-lilley/)
 
-Instagram: [casualphysics](https://instagram.com/casualphysics) & [mattlilleycom](https://instagram.com/mattlilleycom)
+Twitter: [@mklilley](https://twitter.com/mklilley) & [@CasualPhysics](https://twitter.com/CasualPhysics)
+
+Instagram: [mattlilleycom](https://instagram.com/mattlilleycom) & [casualphysics](https://instagram.com/casualphysics)
 
 YouTube: [CasualPhysics](https://www.youtube.com/CasualPhysics)
 
 GitHub: [mklilley](https://github.com/mklilley/)
 
-LinkedIn: [Matthew Lilley](https://www.linkedin.com/in/matthew-lilley/)
