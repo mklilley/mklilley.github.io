@@ -1,5 +1,5 @@
 +++
 title = "Guesstimation"
 description = "Learning the skill of solving \"impossible problems\""
-aliases = ["/research/cold-fusion-lenr"]
+date = "2021-10-02"
 +++
