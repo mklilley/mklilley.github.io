@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "WhatsApp migration"
 date = "2021-01-09"
-description = "I've got lots of group chats with plenty of interesting links that have been shared over the years and I don't want to lose them. WhatsApp doesn't give you an easy way to export these"
+description = "I've got lots of group chats with plenty of interesting links that have been shared over the years and I don't want to lose them. WhatsApp doesn't give you an easy way to export these so I created a little tool to help with that."
 subtitle="How to extract links from your chats"
 tags = [
     "technology"
