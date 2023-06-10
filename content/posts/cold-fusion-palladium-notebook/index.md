@@ -12,7 +12,7 @@ description="In this post I've embedded an Obvservable notebook that I'm trying 
 toc = true
 +++
 
-I'm currently involved in making my own cold fusion (LENR) experiments. For my experiments, I'm loading deuterium gas into a thin layer of palladium that's been deposited onto a nickel mesh and then heating the system to around 200C. 
+I'm currently involved in making my own cold fusion (LENR) experiments and they require loading deuterium gas into a thin layer of palladium that's been deposited onto a nickel mesh and then heating the system to around 200C. 
 
 No one knows how cold fusion works, and it seems to be very difficult to replicate. One parameter that appears to be important in the success of an experiment is what's called the "loading ratio" - the number of deuterium atoms compared to the number of palladium atoms. 
 
