@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Peer to peer video calling"
 date = "2021-01-11"
-description = "My mind was blown today when I found out about WebRTC and how it can enable video calls directly from my browser to yours without any data going through another server 🤯"
+description = "My mind was blown today when I found out about WebRTC and how it can enable video calls directly from my browser to yours without any data going through another server 🤯."
 subtitle="It's built into your browser already 😮"
 tags = [
     "technology"
