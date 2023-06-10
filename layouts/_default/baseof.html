@@ -24,8 +24,10 @@
   <meta name="description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}">
   <meta name="keywords" content="{{ (delimit .Keywords " ,") | default .Site.Params.keywords }}">
 
-  {{ template "_internal/twitter_cards.html" . }}
-  {{ template "_internal/opengraph.html" . }}
+  <!-- {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/opengraph.html" . }} -->
+  {{ partial "twitter_cards.html" . }}
+  {{ partial "opengraph.html" . }}
   <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | relURL }}"  crossorigin="anonymous">
   <!-- font-awesome -->
   <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css" rel="stylesheet" type="text/css">
