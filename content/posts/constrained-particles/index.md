@@ -12,27 +12,23 @@ subtitle="My first physics collaboration with GPT4"
 toc=true
 +++
 
-Fast forward to a few days ago, and I suddenly realised that I could answer my question in no time because I now had GPT at my side 💁‍♂️🤖. Together we built this simulation in a few hours and I had the answer to my question - yes, things do reach equilibrium 🤓.
-
-Below is an interactive particle simulation with constraints - each particle must stay equidistant from two other particles. 
+GPT and I built this interactive particle simulation with constraints - each particle must stay equidistant from two other particles. Sounds random, but there's a story behind it. Now, as you know, I always love a bit of [CasualPhysics](https://twitter.com/CasualPhysics), but this particular project was even more enjoyable... and I think GPT was a big part of that. More on that later though.
 
 {{< iframe src="https://mklilley.github.io/constrained-particles/" >}}
 
-Check it the full screen experience at [mklilley.github.io/constrained-particles](https://mklilley.github.io/constrained-particles/). Source code available at the [constrained-particles repo on Github](https://github.com/mklilley/constrained-particles).
+If you're interested in understanding what the controls do then scroll down to the [Controlling the interactive simulation](#controlling-the-interactive-simulation) section.
 
-## Controlling the interactive simulation
+You can also view the full screen experience at [mklilley.github.io/constrained-particles](https://mklilley.github.io/constrained-particles/) and look at the source code at the [constrained-particles repo on Github](https://github.com/mklilley/constrained-particles).
 
-There are several controls and buttons. Here is what they do:
-- **Max speed** - the higher this is, the faster the particles move around. The reason this is not simply called speed is because the speed is determined by forces between particles that push them towards an equidistant position. Max speed ensures the particles don't continue to move faster and faster over time.
-- **Friction** - This provides resistance to motion. Although particles experience no force when they are equidistant from their buddies, they will continue to overshoot this equidistant position without some friction.
-- **Number of particles** - Changes the number of particles in the simulation (min = 3)
-- **Toggle connections** - The default is to display lines and arrows from a particle to its buddies. You can toggle this on and off using this control
-- **Toggle distances** - In the bottom right corner of the screen, you'll find a metric that tells you how close the particles are to reaching the desired state where each particle is equidistant from its 2 buddies. When `Total distance deviation = 0` the simulation has reached that state. You can toggle on and off the display of this metric using this control
-- **Reset** - Restarts the simulation without resetting the other parameters you've chosen.
+Ok, so where did the idea to make this come from?
 
 ## Back story
 
-Back in July 2022, I participated in a nature workshop in one of London's ancient woodlands. As part of the workshop, we did an activity that allowed us to experience how complex systems behave. This activity involved each participant choosing 2 other participants (buddies you might say). Everyone's task was to stay equidistant from their buddies. When the activity began, everyone moved around in a way that was difficult to predict and I wondered whether such a system would ever settle down into equilibrium. 
+Back in July 2022, I participated in a nature workshop in one of London's ancient woodlands (facilitated by the incredible [John Ridpath](https://undergrowth.london/#past)). 
+
+![Matt Lilley standing in the woods](nature-workshop.jpg)
+
+As part of the workshop, we did an activity that allowed us to experience how complex systems behave. This activity involved each participant choosing 2 other participants (buddies you might say). Everyone's task was to stay equidistant from their buddies. When the activity began, everyone moved around in a way that was difficult to predict and I wondered whether such a system would ever settle down into equilibrium. 
 
 This question sat unresolved in my mind for the better part of a year because I thought it would be quite complicated to code up the dynamics (based on some initial calculations).
 
@@ -40,7 +36,6 @@ This question sat unresolved in my mind for the better part of a year because I 
 
 Fast forward to a few days ago, and I suddenly realised that I could answer my question in no time because I now had GPT at my side 💁‍♂️🤖. Together we built this simulation in a few hours and I had the answer to my question - yes, things do reach equilibrium 🤓. 
 
-Feel free to check out the source code at the [constrained-particles repo on Github](https://github.com/mklilley/constrained-particles).
 
 ## GPT
 
@@ -62,6 +57,18 @@ Philosophy aside, there is something a little different about GPT because I don'
 Does this say more about me than GPT ... 🤷‍♂️ maybe lol... but after watching [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c) and doing this project I'm definitely a little more cautious about treating GPT like a dumb hammer.
 
 If you're interested, you can [read the transcript](https://sharegpt.com/c/3VK3aFo) between me and GPT.
+
+
+## Controlling the interactive simulation
+
+There are several controls and buttons. Here is what they do:
+- **Max speed** - the higher this is, the faster the particles move around. The reason this is not simply called speed is because the speed is determined by forces between particles that push them towards an equidistant position. Max speed ensures the particles don't continue to move faster and faster over time.
+- **Friction** - This provides resistance to motion. Although particles experience no force when they are equidistant from their buddies, they will continue to overshoot this equidistant position without some friction.
+- **Number of particles** - Changes the number of particles in the simulation (min = 3)
+- **Toggle connections** - The default is to display lines and arrows from a particle to its buddies. You can toggle this on and off using this control
+- **Toggle distances** - In the bottom right corner of the screen, you'll find a metric that tells you how close the particles are to reaching the desired state where each particle is equidistant from its 2 buddies. When `Total distance deviation = 0` the simulation has reached that state. You can toggle on and off the display of this metric using this control
+- **Reset** - Restarts the simulation without resetting the other parameters you've chosen.
+
 
 
 
