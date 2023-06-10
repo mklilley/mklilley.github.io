@@ -8,7 +8,12 @@
 
   {{ $title := .Title }}
   {{- if not .IsHome }}
-    {{ $title = printf "%s | %s" .Title .Site.Title }}
+    {{- if .Params.subtitle }}
+        {{ $title = printf "%s: %s | %s" .Title .Params.subtitle .Site.Title }}
+    {{else}}
+       {{ $title = printf "%s | %s" .Title .Site.Title }}
+    {{ end -}}
+    
   {{ end -}}
 
   <title>{{ $title }}</title>
