@@ -12,7 +12,7 @@ subtitle="My first physics collaboration with GPT4"
 toc=true
 +++
 
-GPT and I built this interactive particle simulation with constraints - each particle must stay equidistant from two other particles. Sounds random, but there's a story behind it. Now, as you know, I always love a bit of [CasualPhysics](https://twitter.com/CasualPhysics), but this particular project was even more enjoyable... and I think GPT was a big part of that. More on that later though.
+GPT and I built this interactive particle simulation with constraints - each particle must stay equidistant from two other particles. Sounds random, but there's a story behind it. Now, as you know, I always love a bit of [CasualPhysics](https://twitter.com/CasualPhysics), but this particular project was more enjoyable than usual... and I think GPT was a big part of that. More on that later though.
 
 {{< iframe src="https://mklilley.github.io/constrained-particles/" >}}
 
