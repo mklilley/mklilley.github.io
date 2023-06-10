@@ -1,3 +1,38 @@
-<div class="embed-responsive embed-responsive-16by9">
+<style>
+  /* Portrait */
+  @media (orientation: portrait) {
+    .embed-responsive {
+      position: relative;
+      width: 100%;
+      padding-bottom: 177%; /* Change this to the aspect ratio you want in portrait mode */
+    }
+    .embed-responsive-item {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+  
+  /* Landscape */
+  @media (orientation: landscape) {
+    .embed-responsive {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%; /* This is for 16:9 aspect ratio. Change as needed. */
+    }
+    .embed-responsive-item {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+</style>
+
+
+<div class="embed-responsive">
   <iframe class="embed-responsive-item" src="{{ .Get "src" }}" frameborder="0" allow="geolocation; microphone; camera; midi; encrypted-media; xr-spatial-tracking; fullscreen"></iframe>
 </div>
