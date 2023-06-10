@@ -25,6 +25,6 @@ Only problem is the I didn't have Sodium deuteroxide... and it's expensive! So, 
 
 {{< tweet user="CasualPhysics" id="1220422457959571457" >}}
 
- After visiting the cold fusion farm to get some help from Alan Smith, he noticed some white residue which he thinks is lithium carbonate. It turns out that, unlike sodium carbonate, lithium carbonate is insoluble in water. I now understand why no one talks about using LiOH for water electrolysis!
+ After visiting the "cold fusion farm" to get some help from Alan Smith, he noticed some white residue which he thinks are lithium carbonate. It turns out that, unlike sodium carbonate, lithium carbonate is insoluble in water. I now understand why no one talks about using LiOH for water electrolysis!
 
  We partially solved the problems with citric acid (aka lemon juice). It's not perfect but I think the generator has enough to get the job done.

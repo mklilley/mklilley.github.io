@@ -3,7 +3,7 @@ author = "Matt Lilley"
 title = "BOT"
 date = "2014-06-22"
 subtitle="Bump-on-Tail simulation tool"
-description="BOT is a Matlab tool for studying the electrostatic instability in the bump-on-tail problem in plasma physics. I originally created this tool in 2011 as part of my post doctoral work at Chalmers University of Technology in Sweden and open sourced it on [Google Code]"
+description="BOT is a Matlab tool for studying the electrostatic instability in the bump-on-tail problem in plasma physics. I originally created this tool in 2011 as part of my post doctoral work at Chalmers University of Technology in Sweden and open sourced it on Google Code"
 tags = [
     "science",
     "technology"

@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Walking droplets"
 date = "2018-07-31"
-description = "What's really interesting about these fluid dynamics experiments is that they appear to produce similar behaviour as seen in quantum mechanics 🤯. This result isn't new either - it was first observed in 2006."
+description = "What's really interesting about these fluid dynamics experiments is that they appear to produce similar behaviour as seen in quantum mechanics 🤯. This result isn't new either - it was first observed in 2006. I wanted to have a go at making some walking droplets (aka walkers) myself so I followed the experimental setup from the MIT group Shedding light on pilot wave phenomena and voila."
 subtitle="Quantum behaviour from a classical system?"
 tags = [
     "science"
@@ -31,7 +31,7 @@ It's not clear to me how quantum behaviour can come out of this fluid system, bu
 
 ## Matt's "walkers"
 
-I wanted to have a go at making some walking droplets (aka walkers) myself so I followed the [experimental setup from the MIT group](https://link.springer.com/article/10) (sorry it's behind a paywall 😞) and voila.
+I wanted to have a go at making some walking droplets (aka walkers) myself so I followed the [experimental setup from the MIT group](https://link.springer.com/article/10.1007/s12650-016-0383-5) (sorry it's behind a paywall 😞) and voila.
 
 ### Stable configurations
 

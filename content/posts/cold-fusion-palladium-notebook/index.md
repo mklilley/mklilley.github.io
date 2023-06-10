@@ -18,9 +18,7 @@ No one knows how cold fusion works, and it seems to be very difficult to replica
 
 When the loading ratio is sufficiently high, palladium undergoes a "phase change" where the lattice expands significantly. In some theories of cold fusion, this expansion is necessary to create appropriate sized nano cracks in which a fusion event can occur.  Whether or not this idea is true, having a good idea of the loading ratio seems important.
 
-In this post I've embedded an [Obvservable notebook](https://observablehq.com/) that I'm trying out as an easy way to visualise the loading I can expect during my experiments. 
-
-You can find the original notebook [here](https://observablehq.com/@mklilley/deuterium-loading-of-palladium).
+In this post I've embedded an [Obvservable notebook](https://observablehq.com/@mklilley/deuterium-loading-of-palladium) that I'm trying out as an easy way to visualise the loading I can expect during my experiments. 
 
 ---
 

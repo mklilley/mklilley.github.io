@@ -7,7 +7,7 @@ tags = [
 ]
 subtitle="A model for solid state nuclear reactions"
 series = ["Solid state nuclear science"]
-description="The Project Ida team and I have created a series of computational tutorials in the form of Python-based Jupyter notebooks on two state quantum systems. Nobel laureate Julian Schwinger identified in 1991 that the nuclear"
+description="The Project Ida team and I have created a series of computational tutorials in the form of Python-based Jupyter notebooks on two state quantum systems. Nobel laureate Julian Schwinger identified in 1991 that the nuclear fusion process can be expressed in a typical framing of quantum electrodynamics (QED): a two-state system."
 toc = true
 math=true
 +++

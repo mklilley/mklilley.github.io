@@ -15,7 +15,7 @@ If you've been following me [@CasualPhysics](https://twitter.com/CasualPhysics) 
 
 {{< tweet user="CasualPhysics" id="1153566250439720961" >}}
 
-In Dec 2017, I started looking for the catalyst used by Les Case. It was Palladium on activated carbon made by United Catalysts. A fortunate mistaken identity - United catalyst INC vs United catalyst LLC - allowed me to track down the home of the catalyst to [Clariant](https://www.clariant.com/). After a few months in March 2018 I managed to get in touch with the people at Clariant who politely declined to make a new batch for little old me... fair enough. I figured I'd find another way to get some catalyst and I still had lots of reactor building to do. 
+In Dec 2017, I started looking for the catalyst used by Les Case. It was Palladium on activated carbon made by United Catalysts. A fortunate mistaken identity - United catalyst INC vs United catalyst LLC - allowed me to track down the home of the catalyst to [Clariant](https://www.clariant.com/). After a few months in March 2018, I managed to get in touch with the people at Clariant who politely declined to make a new batch for little old me... fair enough. I figured I'd find another way to get some catalyst and I still had lots of reactor building to do. 
 
 Enter Ed Storms - another cold fusion veteran. I've had the amazing opportunity to chat to him this year. He's been a fantastic mentor to me as I've been continuing to build my cold fusion reactor and plan my experiments. In one of our conversations the full story of Les Case's catalyst was laid bear.
 
@@ -31,7 +31,7 @@ I'm not in any position to figure out if 1 is true. On 2, luckily there has been
 
 It's a solid starting point for me. 
 
-The only difference is that Mizuno works at low gas pressure whereas my reactor is designed for high pressure. It's not at all clear whether Mizunos material will work in my reactor but I'm going to give it a go - right now it's the only thing I can do.
+The only difference is that Mizuno's works at low gas pressure whereas my reactor is designed for high pressure. It's not at all clear whether Mizunos material will work in my reactor but I'm going to give it a go - right now it's the only thing I can do.
 
 So what are the materials, He rubs Palladium onto a nickel mesh and the mesh is avaiable to buy. Seems like a reasonable pivot.
 

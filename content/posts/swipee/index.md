@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Swipee"
 date = "2021-03-27"
-description = "Reading lists suck! Save everything for later and then get paralysed by choice 😣 Swipee makes the choice for you. Instead of a reading list, Swipee uses a deck of swipeable cards. This way, you'll never have to see your ever growing list of content 🙌"
+description = "Reading lists suck! Save everything for later and then get paralysed by choice 😣 Swipee makes the choice for you. Instead of a reading list, Swipee uses a deck of swipeable cards. This way, you'll never have to see your ever growing list of content 🙌."
 subtitle="The no-list reading list app"
 tags = [
     "technology"

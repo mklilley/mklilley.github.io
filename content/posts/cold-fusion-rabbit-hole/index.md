@@ -7,7 +7,7 @@ tags = [
 ]
 subtitle="Delving deeper into cold fusion (LENR)"
 series = ["Cold fusion (LENR)"]
-description="I'm very grateful to cold fusion veteran Prof. Peter Hagelstein - he's pointed me in the direction of the right rabbit hole in which I'm now learning a lot. He was super quick to respond to the email I committed myself to write back in April and he shared some of his thoughts, experience and a bunch of his super useful research papers."
+description="I'm very grateful to cold fusion veteran Prof. Peter Hagelstein - he's pointed me in the direction of the right rabbit hole in which I'm now learning a lot. He was super quick to respond to the email I committed myself to writing back in April and he shared some of his thoughts, experience and a bunch of his super useful research papers."
 toc = true
 +++
 
@@ -19,7 +19,7 @@ Although I've not yet compiled a solid list of "go to" papers, what I've gleaned
 - The effect takes place inside of very specific nano-scale structures of solid materials
 - The effect depends on the vibrational dynamics of solid materials
 
-I'm very grateful to cold fusion veteran Prof. Peter Hagelstein - he's pointed me in the direction of the right rabbit hole in which I'm now learning a lot. He was super quick to respond to the email I committed myself to write back in April and he shared some of his thoughts, experience and a bunch of his super useful research papers.
+I'm very grateful to cold fusion veteran Prof. Peter Hagelstein - he's pointed me in the direction of the right rabbit hole in which I'm now learning a lot. He was super quick to respond to the email I committed myself to writing back in April and he shared some of his thoughts, experience and a bunch of his super useful research papers.
 
 Our email exchange covered roughly two themes: blockers to progress and physics. I must confess that I don't yet understand all the physics that he introduced me to, so in the summaries below there are some "buzz words" that might not make sense to you because they don't yet make full sense to me either.
 

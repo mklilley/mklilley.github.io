@@ -11,7 +11,7 @@ description="Yesterday I did my first cold fusion experiment. I've been working 
 toc = true
 +++
 
-Yesterday I did my first cold fusion experiment. I've been working up to this since I decided to [become an experimentalist](posts/cold-fusion-becoming-experimentalist/) back in 2017. Needless to say I was incredibly excited. 
+Yesterday I did my first cold fusion experiment. I've been working up to this since I decided to [become an experimentalist]({{< relref "/posts/cold-fusion-becoming-experimentalist" >}}) back in 2017. Needless to say I was incredibly excited. 
 
 Up to now, I've been sharing detailed progress on my [experimental log](https://gitlab.com/mklilley/lenr/-/issues/1) and snippets on [CasualPhysics on Twitter](https://twitter.com/CasualPhysics). Today, I'm starting to also document my journey on [CasualPhysics on YouTube](https://www.youtube.com/playlist?list=PLjvHqB5pIFEzQ7qfOdoxW60B0F7OThnW-).
 

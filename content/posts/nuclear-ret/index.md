@@ -7,7 +7,7 @@ tags = [
 ]
 subtitle="A Marie Curie fellowship proposal"
 series = ["Solid state nuclear science"]
-description= "The framing of nuclear fusion as a state transition draws our attention to physics where state transitions have been shown to undergo acceleration. A widely studied example is the transfer of energy between molecules of chlorophyll in close proximity inside plant cells"
+description= "The process of applying for EU money is (as with many grant applications) very involved. It does however, provide a good opportunity to condense your thoughts and ideas into a coherent form. If you're interested in geeking out over the physics 🤓, then you'll find the relevant excerpts from the proposal in this post."
 toc = true
 +++
 

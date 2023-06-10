@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Back in stock"
 date = "2022-10-17"
-description = "I need to buy new fridge with some annoyingly specific requirements. The problem is, the fridge keeps going out of stock and the website's built in notification system"
+description = "I need to buy new fridge with some annoyingly specific requirements. The problem is, the fridge keeps going out of stock and the website's built in notification system is so slow that by the time I get the \"back in stock\" email it's too late...out of stock again! I couldn't resist the urge to make a little bot 🤖 to solve this problem."
 subtitle="Building a stock checker and notifier 🔔"
 tags = [
     "technology"

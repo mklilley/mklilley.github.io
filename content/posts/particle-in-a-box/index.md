@@ -7,7 +7,7 @@ tags = [
 ]
 subtitle="How do quantum particles move"
 series = ["Solid state nuclear science"]
-description= "This collection of tutorials is dedicated to exploring the quantum behaviour of particles moving under the influence of a confining potential - a \"quantum box\". "
+description= "This collection of tutorials is dedicated to exploring the quantum behaviour of particles moving under the influence of a confining potential - a \"quantum box\". These tutorials complement the ones being made over at the two-state-systems repository."
 toc = true
 +++
 

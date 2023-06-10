@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Instabilities in fusion plasmas"
 date = "2014-08-21"
-description = "To reach extreme fusion temperatures, energetic beams of particles are injected. Once the plasma “ignites”, energetic fusion products should heat the plasma in a self sustained way"
+description = "To reach extreme fusion temperatures, energetic beams of particles are injected. Once the plasma “ignites”, energetic fusion products should heat the plasma in a self sustained way. But, these energetic particles also have a tendency to destabilise the plasma."
 subtitle="A summary of my academic research"
 tags = [
     "science"

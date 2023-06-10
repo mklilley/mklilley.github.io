@@ -28,7 +28,7 @@ In doing this work, the biggest shift in my mindset is to appreciate that this a
 
 Have you ever thought about a world where nuclear energy doesn't mean radiation and toxic waste? Sounds like a far-fetched idea, right? In the video above, we challenge the usual perceptions of nuclear energy to see if we can harness it in a gentler, safer way. 
 
-We venture into the complex world of radiation, breaking it down in an easy-to-understand way. Our teachers on this journey? None other than our green companions - the trees and plants. These natural wonders have mastered quantum physics to manipulate energy at an atomic scale and we can use what they know to potentially unlock a new age of nuclear energy.
+We venture into the complex world of radiation, breaking it down in an easy-to-understand way using trees and plants as our guides. These natural wonders have mastered quantum physics to manipulate energy at an atomic scale and we can use what they know to potentially unlock a new age of nuclear energy.
 
 We'll look at some groundbreaking experimental results from places like MIT to show how this isn't as far fetched as you might initially think. There's still a lot to learn, and the quantum physics behind it is notoriously tricky, but it's definitely a topic worth exploring.
 

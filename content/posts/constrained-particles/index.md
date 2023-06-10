@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Constrained particles"
 date = "2023-05-10"
-description = "Interactive particle simulation with constraints - each particle must stay equidistant from two other particles. "
+description = "GPT and I built a interactive particle simulation with constraints - each particle must stay equidistant from two other particles. It took just a few hours to make and was a joy to have GPT as a collaborator."
 tags = [
     "science",
     "technology",
@@ -11,6 +11,8 @@ tags = [
 subtitle="My first physics collaboration with GPT4"
 toc=true
 +++
+
+Fast forward to a few days ago, and I suddenly realised that I could answer my question in no time because I now had GPT at my side 💁‍♂️🤖. Together we built this simulation in a few hours and I had the answer to my question - yes, things do reach equilibrium 🤓.
 
 Below is an interactive particle simulation with constraints - each particle must stay equidistant from two other particles. 
 

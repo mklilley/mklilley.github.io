@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Stern-Gerlach experiment"
 date = "2020-05-27"
-description = "To my surprise, it is only very recently that Stern-Gerlach interferometer experiments are being considered practical enough to implement and yet they are used frequently as a pedagogical example"
+description = "To my surprise, it is only very recently that Stern-Gerlach interferometer experiments are being considered practical enough to implement and yet they are used frequently as a pedagogical example. It is therefore worth first developing an intuition for what one might expect from such SG interferometer experiments using only classical physics. That is the purpose of this post."
 subtitle="A classical view"
 tags = [
     "science"
