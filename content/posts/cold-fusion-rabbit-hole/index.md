@@ -49,7 +49,7 @@ Plenty to dig into here... I think too much. So, I'm going to try and find some 
 
 I've made myself a [little landing page](https://web.archive.org/web/20180816065239/https://skadi-energy.carrd.co/) (using [carrd.co](https://carrd.co/))
 
-![Screenshot of skadi-energy website](skadi.png)
+![Screenshot of skadi-energy website](skadi.jpg)
 
 and I'll put some posters up in some of the London universities - let's see if I get any traction.
 

@@ -18,13 +18,13 @@ I open-sourced all my cold fusion work on the [lilley-lenr Gitlab repository](ht
 
 I went to my first cold fusion (LENR) conference - [ICCF22](https://iscmns.org/iccf22/) - in September in beautiful Asissi, Italy and I got to meet some of the big names in the field who've influenced me a lot e.g. Peter Hagelstein and Mike McKubre. 
 
-![Group photo of attendees of the ICCF22 conference](iccf22-group.jpeg "Original at https://iscmns.org/iccf22/photos-ruby-carat/")
+![Group photo of attendees of the ICCF22 conference](iccf22-group.jpg "Original at https://iscmns.org/iccf22/photos-ruby-carat/")
 
 The [research was diverse](https://iscmns.org/iccf22/program/), e.g. Condensed plasmoids ([Jaitner](https://www.youtube.com/watch?v=Gl9paQbjywk&list=PLpEPF2v_du9RBqvUxxOpoO2GSquUjzn2r)), Palladium thin films on Nickel foam ([Mastromatteo](https://www.youtube.com/watch?v=-gZrlxsFT7M&list=PLpEPF2v_du9RBqvUxxOpoO2GSquUjzn2r)), Nano powders with hydrogen ([Iwamura](https://www.youtube.com/watch?v=PwWLcmNieVY&list=PLpEPF2v_du9RBqvUxxOpoO2GSquUjzn2r)), Nuclear excitation transfer ([Metzler](https://www.youtube.com/watch?v=dDIZF9T9Umo&list=PLpEPF2v_du9RBqvUxxOpoO2GSquUjzn2r)) to name but a few! Incredibly inspirational to see all this work and to make some new connections.
 
 Off the back of ICCF22, one of my new collaborators, Florian Metzler, invited me to come out to MIT. I was an incredible experience to see the diversity of LENR experiments they've got going on, e.g. electrochemical, ion-beam, excitation transfer, and I got to help out in one of their experiments to replicate the work of Letts [^1]
 
-![](matt-florian-sadie-mit.png)
+![](matt-florian-sadie-mit.jpg)
 
 We also talked about possibly of working on some theory work together in an attempt to try and make some VERY complex ideas more accessible to larger audiences. That would be super exciting...but it's not for now... I've still have to finish off my own experiments!
 

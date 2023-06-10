@@ -24,7 +24,7 @@ Along the way, I discoverd that I don't just enjoy building with tech, I'm also 
 
 {{< tweet user="KathrynParsons" id="1017345651296886784" >}}
 
-{{< image-link src="machine-learning.png" href="https://www.linkedin.com/posts/molly-howes-3a76a71b2_theavivafoundry-skillsfest-activity-7064344887994802177-8dHB" alt="Matt Lilley teaching machine learning at Aviva" >}}
+{{< image-link src="machine-learning.jpg" href="https://www.linkedin.com/posts/molly-howes-3a76a71b2_theavivafoundry-skillsfest-activity-7064344887994802177-8dHB" alt="Matt Lilley teaching machine learning at Aviva" >}}
 
 I’ve also helped people launch their careers in tech (student recommendations on [my LinkedIn](https://www.linkedin.com/in/matthew-lilley/)) and have launched a weekend-long learning experience called [Taste of Tech]({{< relref "/posts/taste-of-tech" >}}), designed to help people figure out if a career in tech is right for them.
 

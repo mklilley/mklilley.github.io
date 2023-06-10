@@ -16,7 +16,7 @@ Since 2017, I've worked a lot in tech education, running accelerated learning ex
 
 I've seen how hard it can be for people to figure out if a career in tech is right for them and so I'm experimenting with an idea to help unblock peoples' decision paralysis and make a confident choice about their next career.
 
-{{<image-link src="tasteoftech.png" href="https://tasteof.tech" alt="Taste of Tech logo">}}
+{{<image-link src="tasteoftech.jpg" href="https://tasteof.tech" alt="Taste of Tech logo">}}
 
 
 [Taste of Tech](https://tasteof.tech) is a weekend long, self-paced, interactive, online course that puts you in the shoes of a developer working in a team. We simulate the experience of working in a remote team by creating virtual colleagues, e.g. product owners, designers and developers. You'll work to complete a project brief that goes through the whole tech life-cycle; with all the the twists and turns that go along with that to create a genuine experience of what tech is like.

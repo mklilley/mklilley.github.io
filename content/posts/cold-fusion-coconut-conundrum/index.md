@@ -27,7 +27,7 @@ So, what does this all mean:
 
 I'm not in any position to figure out if 1 is true. On 2, luckily there has been a recent flurry of activity on the [LENR forum around some recent experiments from Mizuo](https://www.lenr-forum.com/forum/thread/6017-mizuno-replication-and-materials-only/?pageNo=1). Much like the Les Case experiment, Mizuno is working with a gas loaded system. Mizuno also claims large amounts of excess heat from his reactor.
 
-![Mizuno reactor](mizuno.png "300W input and reportedly 3000W output 😱")
+![Mizuno reactor](mizuno.jpg "300W input and reportedly 3000W output 😱")
 
 It's a solid starting point for me. 
 
