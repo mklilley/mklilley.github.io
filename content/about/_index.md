@@ -8,7 +8,7 @@ author = "Hugo Authors"
 
 ![Profile image of Matt Lilley]({{< rel url="img/matt.jpg" >}})
 
-Hey there 👋! 
+Hey there 👋!
 
 Welcome to my blog, a place where curiosity reigns and learning never ends. Here, I delve into a wide array of topics around [science]({{< relref "/tags/science" >}}), [technology]({{< relref "/tags/technology" >}}) and [education]({{< relref "/tags/education" >}}). From the mysteries of [quantum physics]({{< relref "/series/solid-state-nuclear-science" >}}) and the challenges of [cold fusion]({{< relref "/series/cold-fusion-lenr" >}}), to [tech education]({{< relref "/posts/taste-of-tech" >}}) and the [potential of GPT]({{< relref "/tags/gpt" >}}). But, this blog isn't just about sharing what I know. I enjoy sparking curiosity, encouraging critical thinking, and having a bit of fun along the way. For example, I've got a [series on guesstimation]({{< relref "/series/guesstimation" >}}) that invites you to solve seemingly impossible problems like "how many people are picking their nose right now?" 🤔.
 
@@ -18,7 +18,7 @@ But, my journey didn't stop at academia. In 2013, inspired by the idea of becomi
 
 {{< image-link src="lilleyio-logo.png" href="https://lilley.io" alt="Lilley.io logo" style="width:25%; margin:0 auto;" caption="Lilley.io">}}
 
-Along the way, I discoverd that I don't just enjoy building with tech, I'm also drawn to talking about tech. Since 2017, I've worked in tech education, running accelerated learning experiences to business leaders on all kinds of tech topics, like blockchain, machine learning and quantum computing. 
+Along the way, I discoverd that I don't just enjoy building with tech, I'm also drawn to talking about tech. Since 2017, I've worked in tech education. I've facilitated 122 accelerated learning experiences to business leaders on all kinds of tech topics, like blockchain, machine learning and quantum computing.
 
 {{< tweet user="feline_dacat" id="921333764965437443" >}}
 
@@ -29,7 +29,6 @@ Along the way, I discoverd that I don't just enjoy building with tech, I'm also 
 I’ve also helped people launch their careers in tech (student recommendations on [my LinkedIn](https://www.linkedin.com/in/matthew-lilley/)) and have launched a weekend-long learning experience called [Taste of Tech]({{< relref "/posts/taste-of-tech" >}}), designed to help people figure out if a career in tech is right for them.
 
 So, whether you're a fellow scientist, a tech enthusiast, or just a curious mind, I invite you to join me on this journey of exploration and discovery. Let's learn, let's build, and let's push the boundaries of what's possible.
- 
 
 ## Contact
 
@@ -44,4 +43,3 @@ Instagram: [mattlilleycom](https://instagram.com/mattlilleycom) & [casualphysics
 YouTube: [CasualPhysics](https://www.youtube.com/CasualPhysics)
 
 GitHub: [mklilley](https://github.com/mklilley/)
-
