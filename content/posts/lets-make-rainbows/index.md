@@ -11,6 +11,7 @@ tags = [
 ]
 subtitle="Creating digital rainbows with GPT4"
 series = ["Let's make"]
+draft = "True"
 +++
 
 ## Motivation
@@ -78,3 +79,15 @@ Two orange colours does not make a brighter orange, it makes max red and max gre
 - Adding some transparency to the colours. I must confess this was mostly trial and error to find the right look.
 
 > Still writing...
+
+There are plenty of other learnings like this one, each of which resulted in one compromise or another and honestly, I can't even remember them all now.
+
+- reflection
+- proper color mixing
+- circle is not a circle
+- light as a ray and not a wave
+- exaggarated the different refractive indices of the colours
+
+But, there are some useful lessons in this process
+Scope creep is real
+Choosing your tech stack is important - p5js not good for making UI
