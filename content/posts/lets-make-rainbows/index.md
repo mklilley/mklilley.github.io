@@ -36,12 +36,6 @@ own shapes and also challenge yourself to traverse a "prism maze".
 
 I think the app is fun, but of course it's not really "simulating a rainbow". It turns out the practical details are kind of complicated and so, as a first step, I decided to create something "simple" and not worry too much about the bits of physics that aren't quite right.
 
-- reflection
-- proper color mixing
-- circle is not a circle
-- light as a ray and not a wave
-- exaggarated the different refractive indices of the colours
-
 Despite the imperfections, my hope is that through experimentation people will develop a intuition for how light behaves and gain a deeper appreciation for the beauty of rainbows 🌈.
 
 ## The Process
@@ -58,5 +52,29 @@ Instead, I spend a lot of time thinking about user expectations, their behaviour
 There is a huge gulf between making something work for you and making something work for other people. The process of taking an idea into "production" (even in a first iteration kind of way) requires you suspend all playfulness. You need (among other things) concrete ["user journeys"](https://en.wikipedia.org/wiki/User_journey), a robust user interface and you need to have anticipated the myriad ways in which your users might break all things 😣.
 
 Now don't get me wrong, there is nothing wrong with the productionising process and it's rewarding to see an idea through to completion. However, every time I've made something "for production" I've always ended up feeling a bit flat afterwards. Perhaps this is just my way of working. I tend to treat everything as a sprint instead of a marathon and I have a habit of setting arbitrary deadlines and then working all the hours in order to meet them. By the end, I'm asking myself "Why am I doing this?" and "for fun" has kind of left the building by that point and I'm reduced to marvelling at my productivity/efficiency/agileness. For a project about 🌈 ... let's just say it's the wrong vibe 😂.
+
+As ever though, I learnt a TONNE! In particular, my knowledge of the canvas drawing library [p5.js](https://p5js.org/) has gone 🚀. One of the biggest learnings was in understanding colour blending. To give you a flavour:
+
+- In the real world, all colours of light mix together to make white light
+- In the real world, two overlapping beams of the same colour light just make a brighter version of that colour, e.g. two faint orange beams of light overlap to make brighter orange
+- In p5, white light was easy to make, but brighter orange seems impossible
+
+p5's [blendMode](https://p5js.org/reference/#/p5/blendMode) allows you to mix colours. `blendMode(ADD)` literally adds one colour to another. What does that mean? Let's take orange:
+
+```
+// RGB colour is 3 numbers, Red, Green and Blue
+// Max for any colour is 255
+// Orange is a mixture of mostly red and some green
+orange = [255, 165, 0]
+
+// Adds the colour numbers but maxes out at 255
+blendMode(ADD)
+orange + orange = [255, 255, 0]
+```
+
+Two orange colours does not make a brighter orange, it makes max red and max green... that's yellow 😫 ! As you can see in the [transcript with GPT](https://chat.openai.com/share/5fc21908-69fa-4a7d-8f43-f0515f59b4ff) I spent a good chunk of time trying to find ways around this because `orange+orange = yellow` did not seem like an acceptable compromise to me! Ultimately, I was not successful, but I was able to minimise the horror by:
+
+- Making sure light rays were not overlapping as they were being drawn. In the beginning, my light rays were actually just lots of circles drawn one after another...that wasn't going to fly.
+- Adding some transparency to the colours. I must confess this was mostly trial and error to find the right look.
 
 > Still writing...
