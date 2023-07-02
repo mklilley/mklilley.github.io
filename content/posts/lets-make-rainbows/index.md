@@ -2,7 +2,7 @@
 author = "Matt Lilley"
 title = "Let's make rainbows 🌈"
 date = "2023-06-30"
-description = "I saw the most spectacular rainbow 🌈 not long ago and wondered whether I could simulate it 🤔. I decided that, with the help of GPT, it would be totally doable and super fun."
+description = "I saw the most spectacular rainbow not long ago and wondered whether I could simulate it 🤔. I decided that, with the help of GPT, it would be totally doable and super fun."
 tags = [
     "education",
     "science",
@@ -58,3 +58,5 @@ Instead, I spend a lot of time thinking about user expectations, their behaviour
 There is a huge gulf between making something work for you and making something work for other people. The process of taking an idea into "production" (even in a first iteration kind of way) requires you suspend all playfulness. You need (among other things) concrete ["user journeys"](https://en.wikipedia.org/wiki/User_journey), a robust user interface and you need to have anticipated the myriad ways in which your users might break all things 😣.
 
 Now don't get me wrong, there is nothing wrong with the productionising process and it's rewarding to see an idea through to completion. However, every time I've made something "for production" I've always ended up feeling a bit flat afterwards. Perhaps this is just my way of working. I tend to treat everything as a sprint instead of a marathon and I have a habit of setting arbitrary deadlines and then working all the hours in order to meet them. By the end, I'm asking myself "Why am I doing this?" and "for fun" has kind of left the building by that point and I'm reduced to marvelling at my productivity/efficiency/agileness. For a project about 🌈 ... let's just say it's the wrong vibe 😂.
+
+So
