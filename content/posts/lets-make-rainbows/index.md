@@ -59,4 +59,4 @@ There is a huge gulf between making something work for you and making something 
 
 Now don't get me wrong, there is nothing wrong with the productionising process and it's rewarding to see an idea through to completion. However, every time I've made something "for production" I've always ended up feeling a bit flat afterwards. Perhaps this is just my way of working. I tend to treat everything as a sprint instead of a marathon and I have a habit of setting arbitrary deadlines and then working all the hours in order to meet them. By the end, I'm asking myself "Why am I doing this?" and "for fun" has kind of left the building by that point and I'm reduced to marvelling at my productivity/efficiency/agileness. For a project about 🌈 ... let's just say it's the wrong vibe 😂.
 
-So
+> Still writing...
