@@ -63,7 +63,7 @@ Now, don't get me wrong, there is nothing bad about the productionising process 
 
 ### Libraries
 
-As ever though, I learnt a TONNE! In particular, my knowledge of the canvas drawing library [p5.js](https://p5js.org/) has gone 🚀. One of the biggest learnings was in understanding colour blending. To give you a flavour:
+As ever though, I learnt a TONNE! In particular, my knowledge of the canvas drawing library [p5.js](https://p5js.org/) has gone 🚀. One of the biggest learnings was around colour blending. To give you a flavour:
 
 - In the real world, all colours of light mix together to make white light
 - In the real world, two overlapping beams of the same colour light just make a brighter version of that colour, e.g. two faint orange beams of light overlap to make brighter orange
@@ -101,7 +101,7 @@ Ok, enough about me. Let's talk about the biggest enabler of this project.
 
 ### GPT
 
-Just like [my last project](({{< relref "/posts/constrained-particles" >}})), there is simply no way I would have been able to make this app in this timescale without the help of GPT4. GPTs knowledge, communication style and problem solving abilities are breathtaking. This project was a lot more sophisticated than my last one with a very solid knowledge of physics and geometry needed. For example, I decided to allow users to put prisms inside of prisms inside of prisms 🤯... this was was quite the challenge. My requirements were also shifting in real time as I was figuring out what it was I actually wanted to build. Yet, GPT was mostly able to roll with the punches and read in between the lines when my prompts were not totally clear and were riddled with typos.
+Just like [my last project]({{< relref "/posts/constrained-particles" >}}), there is simply no way I would have been able to make this app in this timescale without the help of GPT4. GPTs knowledge, communication style and problem solving abilities are breathtaking. This project was a lot more sophisticated than my last one with a very solid knowledge of physics and geometry needed. For example, I decided to allow users to put prisms inside of prisms inside of prisms 🤯... this was was quite the challenge. My requirements were also shifting in real time as I was figuring out what it was I actually wanted to build. Yet, GPT was mostly able to roll with the punches and read in between the lines when my prompts were not totally clear and were riddled with typos.
 
 It was not all smooth sailing though. I found myself needing to remind GPT about what we were doing quite a few times and at one point GPT jumped into python code even though we'd been doing javascript up to that point. I suspect I was experiencing the limitations of GPT4's "context window". You can of think of a context window in a similar way to a humans "working memory". According to The Atlantic article ["GPT-4 Has the Memory of a Goldfish"](https://www.theatlantic.com/technology/archive/2023/03/gpt-4-has-memory-context-window/673426/), GPT4 has enough working memory for an hours worth of conversation which of course isn't nearly long enough for a long project. The article makes a nice GPT/human comparison :
 
@@ -116,16 +116,18 @@ This suggests that collaborating on a larger project with GPT will work best whe
 
 The ChatGPT interface is not really geared up this kind of chat grouping, but I'm sure new interfaces like this will develop over time. Food for thought 🤔.
 
-If you're interested, you can [read the transcript](https://chat.openai.com/share/5fc21908-69fa-4a7d-8f43-f0515f59b4ff) between me and GPT.
+If you're interested in more details, you can [read the transcript](https://chat.openai.com/share/5fc21908-69fa-4a7d-8f43-f0515f59b4ff) between me and GPT.
 
 ## Extensions
 
-At its core, "Let's make rainbows" is just another particle code. The simulation only looks like rays of light because I display the history of where the particle has been. Considering that light can be thought of as photons, it's not a terrible model. In addition, this approach has some computational advantages:
+At its core, "Let's make rainbows" is just another particle code. The simulation only looks like rays of light because I display the history of where the particle has been. Considering that light can be thought of as photons, it's not a terrible model. In addition, this approach has some advantages:
 
 - Moving individual photons in straight lines is "straight forward"
-- The user gets to see the dynamics of the light unfold
-- Although colour mixing of different "rays" is imperfect, it is handled automatically by the canvas's blendMode
+- The user gets to see the dynamics of the light unfold - can be nice
+- Although colour mixing of different "rays" is imperfect, it's handled automatically by the p5's blendMode
 
-Another approach could be taken. Because we know the light moves in rays in straight lines (it doesn't really but that's is a [rabbit hole](<https://en.wikipedia.org/wiki/Ray_(optics)>) that we won't go down today), we don't actually need to move the photons step by step. We just need to trace forwards to find where the photons hit the prisms and the boundaries and calculate the refraction and reflection angles accordingly. The main advantage of this approach is that users could manipulate the prisms shape/orientation and see how all the light rays alter without having to wait for a simulation to unfold.
+Another approach could be taken. Because we know that light moves in rays in straight lines (it doesn't really but that's is a [rabbit hole](<https://en.wikipedia.org/wiki/Ray_(optics)>) that we won't go down today), we don't actually need to move the photons step by step. We just need to trace forwards to find where the photons hit the prisms and the boundaries and calculate the refraction and reflection angles accordingly. The main advantage of this approach is that users could manipulate the prisms shape/orientation and see how all the light rays alter without having to wait for a simulation to unfold.
 
 Yet another approach could also be taken. Instead of treating the light as particles or rays, we could treat the light as a field (light can also be thought of as wave of the electromagnetic field so this has a physical basis). So far nothing controversial. But, how about 3 fields, the red, green and blue fields. Colour is then defined and evolved on every pixel, not just where our 6 beams of light have been. This way, we'd expect to see a continuous spectrum of refracting colours which is much more physical. It's worth saying, I've actually never seen this way of thinking about light and I'm not 100% sure it makes sense 🤷‍♂️. I do however have a hunch that there are some differential colour equations out there waiting to be written and I'm sure the resulting simulation would look beautiful.
+
+I hope you enjoy playing with "Let's make rainbows". If you have any comments or suggestions please do feel free to [reach out](/about/#contact) on email or social media.
