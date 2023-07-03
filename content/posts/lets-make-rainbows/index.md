@@ -91,7 +91,7 @@ and i think it really lives up to that. You don't have to worry about the usual 
 
 Buuuuut (you knew there was a but coming right 😉), I did find it a bit tricky adding a nice UI when I was getting the app ready for "prime time". This is of course not what p5 was made for, but because p5 does actually allow you to make HTML buttons and sliders etc, I carried on coding in the p5 way for longer than I should have. The result, a [code base](https://github.com/mklilley/lets-make-rainbows) that is... well let's be honest... a bit of a mess. It works, but will I be able to add stuff to it in a few months time... not sure.
 
-Reactive UI, data sharing across components etc, this is territory of [React](https://react.dev/) / [Vue](https://vuejs.org/) / [Svelete](https://svelte.dev/) / [Angular](https://angular.io/). These libraries/frameworks require you to add additional dependencies and build tools to your process, but they also force you to adopt their design patterns which generally result in more robust and understandable code in the long run. I've made apps using these kind of tools before, e.g. [Swipee]({{< relref "/posts/swipee" >}}) and [Flashee]({{< relref "/posts/flashee" >}}), [Squidler]({{< relref "/posts/squidler" >}}), so I know all this... I guess I was just wishfully thinking this little app would be different. Silly Matthew with his head the the clouds thinking about 🌈.
+Reactive UI, data sharing across components etc, this is territory of [React](https://react.dev/) / [Vue](https://vuejs.org/) / [Svelete](https://svelte.dev/) / [Angular](https://angular.io/). These libraries/frameworks require you to add additional dependencies and build tools to your process, but they also force you to adopt their design patterns which generally result in more robust and understandable code in the long run. I've made apps using these kind of tools before, e.g. [Swipee]({{< relref "/posts/swipee" >}}) and [Flashee]({{< relref "/posts/flashee" >}}), [Squidler]({{< relref "/posts/squidler" >}}), so I know all this... I guess I was just wishfully thinking this little app would be different. Silly Matthew with his head the the clouds 🌈.
 
 Ok, enough about me. Let's talk about the biggest enabler of this project.
 
@@ -114,4 +114,14 @@ The ChatGPT interface is not really geared up this kind of chat grouping, but I'
 
 If you're interested, you can [read the transcript](https://chat.openai.com/share/5fc21908-69fa-4a7d-8f43-f0515f59b4ff) between me and GPT.
 
-> Still writing...
+## Extensions
+
+At its core, "Let's make rainbows" is just another particle code. The simulation only looks like rays of light because I display the history of where the particle has been. Considering that light can be thought of as photons, it's not a terrible model. In addition, this approach has some computational advantages:
+
+- Moving individual photons in straight lines is "straight forward"
+- The user gets to see the dynamics of the light unfold
+- Although colour mixing of different "rays" is imperfect, it is handled automatically by the canvas's blendMode
+
+Another approach could be taken. Because we know the light moves in rays in straight lines (it doesn't really but that's is a [rabbit hole](<https://en.wikipedia.org/wiki/Ray_(optics)>) that we won't go down today), we don't actually need to move the photons step by step. We just need to trace forwards to find where the photons hit the prisms and the boundaries and calculate the refraction and reflection angles accordingly. The main advantage of this approach is that users could manipulate the prisms shape/orientation and see how all the light rays alter without having to wait for a simulation to unfold.
+
+Yet another approach could also be taken. Instead of treating the light as particles or rays, we could treat the light as a field (light can also be thought of as wave of the electromagnetic field so this has a physical basis). So far nothing controversial. But, how about 3 fields, the red, green and blue fields. Colour is then defined and evolved on every pixel, not just where our 6 beams of light have been. This way, we'd expect to see a continuous spectrum of refracting colours which is much more physical. It's worth saying, I've actually never seen this way of thinking about light and I'm not 100% sure it makes sense 🤷‍♂️. I do however have a hunch that there are some differential colour equations out there waiting to be written and I'm sure the resulting simulation would look beautiful.
