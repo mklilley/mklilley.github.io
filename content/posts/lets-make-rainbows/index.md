@@ -44,7 +44,7 @@ I think the app is fun, but of course it's not really "simulating a rainbow". It
 
 Despite the imperfections, my hope is that through experimentation people will develop a intuition for how light behaves and gain a deeper appreciation for the beauty of rainbows 🌈.
 
-## The Process
+## Process
 
 ### Play vs production
 
