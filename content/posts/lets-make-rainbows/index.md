@@ -36,7 +36,12 @@ physics of rainbow formation by shooting light rays at various shaped prisms
 and watching how the different colours bend and reflect. You can even make your
 own shapes and also challenge yourself to traverse a "prism maze".
 
-I think the app is fun, but of course it's not really "simulating a rainbow". It turns out the practical details are kind of complicated and so, as a first step, I decided to create something "simple" and not worry too much about the bits of physics that aren't quite right.
+I think the app is fun, but of course it's not really "simulating a rainbow". It turns out the practical details are kind of complicated and so, as a first step, I decided to create something "simple" and not worry too much about the bits of physics that aren't quite right. For example:
+
+- Reflection - standard reflection is completely absent because each reflection spawns a new light ray to keep track of and I was not prepared to deal with an explosion of light rays in this version.
+- Circular prism is not actually a circle - I opted for a prism with many faces to simplify the refraction calculation by pre-calculating the "normal" vectors to the prism.
+- Exaggerated differences between the colours - Otherwise refraction would hardly be visible on screen.
+- Proper colour mixing - more on that in a minute
 
 Despite the imperfections, my hope is that through experimentation people will develop a intuition for how light behaves and gain a deeper appreciation for the beauty of rainbows 🌈.
 
