@@ -11,7 +11,6 @@ tags = [
 ]
 subtitle="Creating digital rainbows with GPT4"
 series = ["Let's make"]
-draft = true
 toc=true
 +++
 
