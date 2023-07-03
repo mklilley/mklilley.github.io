@@ -53,7 +53,7 @@ Unlike my [constrained particles simulation]({{< relref "/posts/constrained-part
 
 Instead, I spend a lot of time thinking about user expectations, their behaviour, differences between desktop and mobile experiences and testing. My past self was indeed correct "it's never simple...ever".
 
-There is a huge gulf between making something work for you and making something work for other people. The process of taking an idea into "production" (even in a first iteration kind of way) requires you suspend all playfulness. You need (among other things) concrete ["user journeys"](https://en.wikipedia.org/wiki/User_journey), a robust user interface (UI) and you need to have anticipated the myriad ways in which your users might break all things 😣.
+There is a huge gulf between making something work for you and making something work for other people. The process of taking an idea into "production" (even in a first iteration kind of way) requires you suspend all playfulness. You need (among other things) concrete "user journeys", a robust user interface (UI) and you need to have anticipated the myriad ways in which your users might break all things 😣.
 
 Now, don't get me wrong, there is nothing bad about the productionising process and it's rewarding to see an idea through to completion. However, every time I've made something "for production" I've always ended up feeling a bit flat afterwards. Perhaps this is just my way of working. I tend to treat everything as a sprint instead of a marathon and I have a habit of setting arbitrary deadlines and then beasting myself to meet them. By the end, I'm asking myself "Why am I doing this?" and "for fun" has kind of left the building by that point as I'm reduced to marvelling at my productivity/efficiency/agileness. For a project about 🌈 ... let's just say it's the wrong vibe 😂.
 
@@ -97,12 +97,21 @@ Ok, enough about me. Let's talk about the biggest enabler of this project.
 
 ### GPT
 
-Just like my last project, there is simply no way I would have been able to make this app in this timescale without the help of GPT4. GPTs knowledge, communication style and problem solving abilities are breathtaking. This project was a lot more sophisticated than my last one with a very solid knowledge of physics and geometry needed. My requirements were also shifting in real time as I was figuring out what it was I actually wanted to build. Yet, GPT was mostly able to roll with the punches and read in between the lines when my prompts were not totally clear and were riddled with typos.
+Just like [my last project](({{< relref "/posts/constrained-particles" >}})), there is simply no way I would have been able to make this app in this timescale without the help of GPT4. GPTs knowledge, communication style and problem solving abilities are breathtaking. This project was a lot more sophisticated than my last one with a very solid knowledge of physics and geometry needed. My requirements were also shifting in real time as I was figuring out what it was I actually wanted to build. Yet, GPT was mostly able to roll with the punches and read in between the lines when my prompts were not totally clear and were riddled with typos.
 
 It was not all smooth sailing though. I found myself needing to remind GPT about what we were doing quite a few times and at one point GPT jumped into python code even though we'd been doing javascript up to that point. I suspect I was experiencing the limitations of GPT4's "context window". You can of think of a context window in a similar way to a humans "working memory". According to The Atlantic article ["GPT-4 Has the Memory of a Goldfish"](https://www.theatlantic.com/technology/archive/2023/03/gpt-4-has-memory-context-window/673426/), GPT4 has enough working memory for an hours worth of conversation which of course isn't nearly long enough for a long project. The article makes a nice GPT/human comparison :
 
 > The human mind is able to sort experience into categories: We (mostly) remember the important stuff and (mostly) forget the oceans of irrelevant information that wash over us each day. Large language models do not distinguish. They have no capacity for triage, no ability to distinguish garbage from gold. “A transformer keeps everything,” Dimakis told me. “It treats everything as important.” In that sense, the trouble isn’t that large language models can’t remember; it’s that they can’t figure out what to forget.
 
-This suggests that collaborating on on a larger project with GPT will work best when the project can be separated into lots of small modular pieces that don't require a large shared context.
+This suggests that collaborating on a larger project with GPT will work best when the project can be separated into lots of small modular pieces that don't require a large shared context. One could then imagine several GPT conversations:
+
+- Brainstorming → results in a well defined idea
+- Planning → results in list of well defined "modules"
+- For each module:
+  - Building → results in working code
+
+The ChatGPT interface is not really geared up this kind of chat grouping, but I'm sure new interfaces like this will develop over time. Food for thought 🤔.
+
+If you're interested, you can [read the transcript](https://chat.openai.com/share/5fc21908-69fa-4a7d-8f43-f0515f59b4ff) between me and GPT.
 
 > Still writing...
