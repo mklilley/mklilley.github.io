@@ -12,7 +12,7 @@ toc = true
 
 I've spent 9 years working in academia on nuclear fusion research. I got my PhD from Imperial College and then spent some time aboard at Chalmers University of Technology in Sweden. A lot of my research has been done in collaboration with the Culham Centre for Fusion Energy in the UK.
 
-You can learn more about my research by checking out some of my peer reviewed publications below, [downloading my CV](lilleyCV.pdf) and [visiting my Google Scholar page](https://scholar.google.co.uk/citations?user=dJewyK0AAAAJ).
+You can learn more about my research by checking out some of my peer reviewed publications below, [downloading my CV](LilleyCV.pdf) and [visiting my Google Scholar page](https://scholar.google.co.uk/citations?user=dJewyK0AAAAJ).
 
 ## Magnetic confinement fusion
 
