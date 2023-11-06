@@ -18,7 +18,7 @@ But, my journey didn't stop at academia. In 2013, inspired by the idea of becomi
 
 {{< image-link src="lilleyio-logo.png" href="https://lilley.io" alt="Lilley.io logo" style="width:25%; margin:0 auto;" caption="Lilley.io">}}
 
-Along the way, I discoverd that I don't just enjoy building with tech, I'm also drawn to talking about tech. Since 2017, I've worked in tech education. I've facilitated 122 accelerated learning experiences to business leaders on all kinds of tech topics, like blockchain, machine learning and quantum computing.
+Along the way, I discoverd that I don't just enjoy building with tech, I'm also drawn to talking about tech. Since 2017, I've worked in tech education. I've facilitated 122 accelerated learning experiences to business leaders on all kinds of tech topics, like blockchain, machine learning, quantum computing and AI.
 
 <!-- {{< tweet user="feline_dacat" id="921333764965437443" >}} -->
 
@@ -27,6 +27,8 @@ Along the way, I discoverd that I don't just enjoy building with tech, I'm also 
 {{< tweet user="KathrynParsons" id="1017345651296886784" >}}
 
 {{< image-link src="machine-learning.jpg" href="https://www.linkedin.com/posts/molly-howes-3a76a71b2_theavivafoundry-skillsfest-activity-7064344887994802177-8dHB" alt="Matt Lilley teaching machine learning at Aviva" >}}
+
+{{< image-link src="future-of-ai.png" href="https://www.linkedin.com/posts/alexandra-pavliuc-b7a45150_dataliteracy-education-activity-7108768360716189697-IqiI" alt="Our dry-run and live Decoded session on AI & the Future of Intelligence to a buzzing room of 200 delegates was a roaring success" >}}
 
 I’ve also helped people launch their careers in tech (student recommendations on [my LinkedIn](https://www.linkedin.com/in/matthew-lilley/)) and have launched a weekend-long learning experience called [Taste of Tech]({{< relref "/posts/taste-of-tech" >}}), designed to help people figure out if a career in tech is right for them.
 
