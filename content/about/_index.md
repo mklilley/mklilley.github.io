@@ -20,7 +20,9 @@ But, my journey didn't stop at academia. In 2013, inspired by the idea of becomi
 
 Along the way, I discoverd that I don't just enjoy building with tech, I'm also drawn to talking about tech. Since 2017, I've worked in tech education. I've facilitated 122 accelerated learning experiences to business leaders on all kinds of tech topics, like blockchain, machine learning and quantum computing.
 
-{{< tweet user="feline_dacat" id="921333764965437443" >}}
+<!-- {{< tweet user="feline_dacat" id="921333764965437443" >}} -->
+
+{{< image-link src="blockchain.png" href="https://twitter.com/feline_dacat/status/921333764965437443" alt="Excited for this talk by Matt and Kyle from Decoded about blockchain" >}}
 
 {{< tweet user="KathrynParsons" id="1017345651296886784" >}}
 
