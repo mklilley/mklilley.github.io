@@ -435,6 +435,15 @@ samp {
       color: rgba(255, 255, 255, 0.8);
     }
   }
+  .navbar-brand > svg{
+    fill:white;
+    height: 180%;
+    width: auto;
+  }
+  .navbar-brand > img{
+    height: 180%;
+    width: auto;
+  }
   .nav {
     li {
       a {
@@ -458,7 +467,7 @@ samp {
     border-bottom: 1px solid transparent;
     .navbar-brand {
       color: white;
-      padding: 20px;
+      // padding: 20px;
       line-height: 20px;
       &:hover,
       &:focus {
@@ -496,6 +505,9 @@ samp {
       &:focus {
         color: $brand-primary;
       }
+    }
+    .navbar-brand > svg {
+      fill: #404040;
     }
     .nav {
       li {

@@ -14,9 +14,11 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      {{- if not .IsHome -}}
-      <a class="navbar-brand" href="{{ .Site.BaseURL | safeURL }}">{{ .Site.Title }}</a>
-      {{end}}
+      <a class="navbar-brand" href="{{ .Site.BaseURL | safeURL }}">
+        <!-- <img src="{{ .Site.BaseURL }}/logo.png" alt="{{ .Site.Title }} Logo" class="navbar-logo"> -->
+        {{ $svg := resources.Get "logo.svg" }}
+        {{ $svg.Content | safeHTML }}
+      </a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div id="huxblog_navbar">
