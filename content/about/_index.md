@@ -40,9 +40,9 @@ email: [info@mattlilley.com](mailto:info@mattlilley.com)
 
 LinkedIn: [Matthew Lilley](https://www.linkedin.com/in/matthew-lilley/)
 
-Twitter: [@mklilley](https://twitter.com/mklilley) & [@CasualPhysics](https://twitter.com/CasualPhysics)
+Twitter: [@mklilley](https://twitter.com/mklilley)
 
-Instagram: [mattlilleycom](https://instagram.com/mattlilleycom) & [casualphysics](https://instagram.com/casualphysics)
+Instagram: [mattlilleycom](https://instagram.com/mattlilleycom)
 
 YouTube: [CasualPhysics](https://www.youtube.com/CasualPhysics)
 
