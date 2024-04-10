@@ -209,6 +209,8 @@ There are 86400 seconds in a day, so we can say approximately $10^5$. I know the
 
 Checking [online](https://sciencing.com/chemical-composition-exhaled-air-human-lungs-11795.html), real exhaled air is about 4% $CO_2$ so we've not done too badly at all with our guesstimation. It usually goes this way because you over estimate on some things, under estimate on others and the errors you make tend to balance out. It doesn't always work out, but it does so more often than you might otherwise expect.
 
+Final reflection -  if I had the real exhaled $CO_2$ concentration in my mental wiki, then I'd not have needed to delve into all that chemistry. It's definitely a number worth remembering but it's also nice to know that I can estimate it from more fundamental numbers and ideas 🤓.
+
 Well done if you've made it this far - I'm proud of ya ⭐️. Seriously though, if you made it this far that means you probably like a bit of guesstimation so you should probably check out my [Guesstimation on YouTube](https://www.youtube.com/playlist?list=PLjvHqB5pIFExT9QKjN_G0Ko1eMTv9xXgP) 😃.
 
 In any event, thanks for reading and I hope it's inspired you to do a bit of data collection and guesstimation of your own.
