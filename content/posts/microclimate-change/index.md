@@ -211,6 +211,6 @@ Checking [online](https://sciencing.com/chemical-composition-exhaled-air-human-l
 
 Final reflection -  if I had the real exhaled $CO_2$ concentration in my mental wiki, then I'd not have needed to delve into all that chemistry. It's definitely a number worth remembering but it's also nice to know that I can estimate it from more fundamental numbers and ideas 🤓.
 
-Well done if you've made it this far - I'm proud of ya ⭐️. Seriously though, if you made it this far that means you probably like a bit of guesstimation so you should probably check out my [Guesstimation on YouTube](https://www.youtube.com/playlist?list=PLjvHqB5pIFExT9QKjN_G0Ko1eMTv9xXgP) 😃.
+Well done if you've made it this far - I'm proud of ya ⭐️. Seriously though, if you made it this far that means you probably like a bit of guesstimation so you should probably check out my video series on [Guesstimation on YouTube](https://www.youtube.com/playlist?list=PLjvHqB5pIFExT9QKjN_G0Ko1eMTv9xXgP) 😃.
 
 In any event, thanks for reading and I hope it's inspired you to do a bit of data collection and guesstimation of your own.
