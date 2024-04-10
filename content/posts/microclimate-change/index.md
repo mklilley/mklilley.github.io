@@ -164,7 +164,7 @@ Assuming the $1$ kg of food we eat is pure sugar, then number of sugar molecules
    &\approx 3\times 10^{24}  \nonumber
 \\end{align}
 
-So far so good, now for the tricky bit... remembering the chemical reaction formula for the oxidation ("burning") of glucose. We learnt this at school but that was a loooong time ago 🤔.
+So far so good, now for the tricky bit... remembering the chemical reaction equation for the oxidation ("burning") of glucose. We learnt this at school but that was a loooong time ago 🤔.
 
 I know it's got to look something like this:
 
