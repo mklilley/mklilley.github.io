@@ -18,7 +18,7 @@ But, my journey didn't stop at academia. In 2013, inspired by the idea of becomi
 
 {{< image-link src="lilleyio-logo.png" href="https://lilley.io" alt="Lilley.io logo" style="width:25%; margin:0 auto;" caption="Lilley.io">}}
 
-Along the way, I discovered that I don't just enjoy building with tech, I'm also drawn to talking about tech. Since 2017, I've worked in tech education. I've facilitated 122 accelerated learning experiences to business leaders on all kinds of tech topics, like blockchain, machine learning, quantum computing and AI.
+Along the way, I discovered that I don't just enjoy building with tech, I'm also drawn to talking about tech. Since 2017, I've worked in tech education. I've facilitated 153 accelerated learning experiences to business leaders on all kinds of tech topics, like blockchain, machine learning, quantum computing and AI.
 
 <!-- {{< tweet user="feline_dacat" id="921333764965437443" >}} -->
 
