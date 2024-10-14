@@ -27,7 +27,7 @@ As with many people, cold fusion was thrust into my awareness in 2011 when [Andr
 
 The cold fusion story came back to me at the end of 2015 when a friend shared the book [Excess Heat: Why Cold Fusion Research Prevailed](https://newenergytimes.com/v2/books/excessheat/ExcessHeat.shtml) by Beaudette. The provocative title notwithstanding, this book blew my mind and I became convinced this was an area of research that I wanted to be part of. High risk yes, but the potential seemed far greater than the hot fusion research that I'd previously been involved in. For example, home sized reactors didn't seem out of the question 😱. My friends and I got so excited that in 2016 we pitched to some "business types" in an attempt to raise some cold fusion money.
 
-It's now 2017 and after finishing a long standing tech project, Squidler, I'm ready to take another look at cold fusion. My first action item is to reach out to some researchers in the field. On my list, Peter Hagelstein and Michae McKubre. Let's hope they respond.
+It's now 2017 and after finishing a long standing tech project, Squidler, I'm ready to take another look at cold fusion. My first action item is to reach out to some researchers in the field. On my list, Peter Hagelstein and Michael McKubre. Let's hope they respond.
 
 Wish me luck.
 
