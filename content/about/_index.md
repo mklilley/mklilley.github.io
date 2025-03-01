@@ -25,11 +25,9 @@ Driven by a desire for self-funded research, I founded Level 8 Limited in 2013, 
 
 My passion for education extended beyond academia—since 2017 I’ve since facilitated 153 workshops for business leaders on topics like blockchain, AI, machine learning, and quantum computing.
 
-<!-- {{< tweet user="feline_dacat" id="921333764965437443" >}} -->
-
 {{< image-link src="blockchain.png" href="https://twitter.com/feline_dacat/status/921333764965437443" alt="Excited for this talk by Matt and Kyle from Decoded about blockchain" >}}
 
-{{< tweet user="KathrynParsons" id="1017345651296886784" >}}
+{{< x user="KathrynParsons" id="1017345651296886784" >}}
 
 {{< image-link src="machine-learning.jpg" href="https://www.linkedin.com/posts/molly-howes-3a76a71b2_theavivafoundry-skillsfest-activity-7064344887994802177-8dHB" alt="Matt Lilley teaching machine learning at Aviva" >}}
 

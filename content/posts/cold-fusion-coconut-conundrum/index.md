@@ -13,7 +13,7 @@ toc = true
 
 If you've been following me [@CasualPhysics](https://twitter.com/CasualPhysics) on Twitter, then you'll have seen the rather large spanner in the works for my [Les Case replication experiments]({{< relref "/posts/cold-fusion-becoming-experimentalist" >}}).
 
-{{< tweet user="CasualPhysics" id="1153566250439720961" >}}
+{{< x user="CasualPhysics" id="1153566250439720961" >}}
 
 In Dec 2017, I started looking for the catalyst used by Les Case. It was Palladium on activated carbon made by United Catalysts. A fortunate mistaken identity - United catalyst INC vs United catalyst LLC - allowed me to track down the home of the catalyst to [Clariant](https://www.clariant.com/). After a few months in March 2018, I managed to get in touch with the people at Clariant who politely declined to make a new batch for little old me... fair enough. I figured I'd find another way to get some catalyst and I still had lots of reactor building to do. 
 
