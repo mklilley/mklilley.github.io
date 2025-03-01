@@ -72,11 +72,6 @@ name = "Series"
 url = "series"
 weight = 5
 
-[social]
-twitter = 'mklilley'
-
-
-
 [params]
 title = "Matt Lilley"
 author = "Matt Lilley"
