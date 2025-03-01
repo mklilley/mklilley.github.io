@@ -23,7 +23,7 @@
 {{ $sassTemplate := resources.Get "sass/tagcolor-template.scss" }}
 {{ $params := dict "weighting" (sub . $min) "spread" $spread "count" .  }}
 
-{{ $style := $sassTemplate | resources.ExecuteAsTemplate (printf "tagscolors__%d.css" .) $params | resources.ToCSS }}
+{{ $style := $sassTemplate | resources.ExecuteAsTemplate (printf "tagscolors__%d.css" .) $params | css.Sass }}
 {{ with $style }}
   {{ .Content | safeCSS }}
 {{ end }}
