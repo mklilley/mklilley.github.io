@@ -29,7 +29,7 @@
               {{ if isset .Params "series" }}
               {{ $term := index .Params.series 0 }}
               
-              {{ $series := index site.Taxonomies.series ($term | urlize) }}
+              {{ $series := (site.Taxonomies.series.Get $term).Page }}
             
               {{ if $series }}
   
