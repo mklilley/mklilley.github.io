@@ -10,7 +10,7 @@ tags = [
     "GPT"
 ]
 subtitle="Creating digital rainbows with GPT4"
-series = ["Let's make"]
+series = ["Lets make"]
 toc=true
 +++
 
