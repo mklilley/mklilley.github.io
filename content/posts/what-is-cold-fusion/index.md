@@ -7,7 +7,7 @@ tags = [
 ]
 subtitle="Past, present, future"
 description="Imagine a future where households and businesses generate their own clean energy. No more reliance on massive power plants, no more coal, oil, or even solar and wind farms. This decentralised energy future is the promise of cold fusion, a controversial field of study within the realm of physics which would revolutionise the world if it could be harnessed. "
-series = ["Cold fusion (LENR)"]
+series = ["Cold fusion LENR"]
 toc = true
 +++
 

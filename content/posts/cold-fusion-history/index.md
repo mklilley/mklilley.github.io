@@ -6,7 +6,7 @@ tags = [
     "science"
 ]
 subtitle="A very brief history"
-series = ["Cold fusion (LENR)"]
+series = ["Cold fusion LENR"]
 description="As with many people, cold fusion was thrust into my awareness in 2011 when Andrea Rossi claimed to have demonstrated cold fusion using nickel and hydrogen. Preoccupied by my own hot fusion research I didn't pay much attention to the story. It's now 2017 and after finishing a long standing tech project, Squidler, I'm ready to take another look at cold fusion."
 toc = true
 +++

@@ -7,7 +7,7 @@ tags = [
     "technology"
 ]
 subtitle="Using Observable notebooks to aid research"
-series = ["Cold fusion (LENR)"]
+series = ["Cold fusion LENR"]
 description="In this post I've embedded an Obvservable notebook that I'm trying out as an easy way to visualise the loading of deutereium into palladium in my experiments. For my experiments, I'm loading deuterium gas into a thin layer of palladium that's been deposited onto a nickel mesh and then heating the system to around 200C."
 toc = true
 +++

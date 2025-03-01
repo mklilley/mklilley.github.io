@@ -6,7 +6,7 @@ tags = [
     "science"
 ]
 subtitle="It's been a long time coming"
-series = ["Cold fusion (LENR)"]
+series = ["Cold fusion LENR"]
 description="Yesterday I did my first cold fusion experiment. I've been working up to this since 2017. Needless to say I was incredibly excited. Did I make cold fusion happen? Did I manage to stick to my £1000 budget?"
 toc = true
 +++

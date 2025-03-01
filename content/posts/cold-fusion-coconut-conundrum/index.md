@@ -6,7 +6,7 @@ tags = [
     "science"
 ]
 subtitle="Pivoting my cold fusion experiments"
-series = ["Cold fusion (LENR)"]
+series = ["Cold fusion LENR"]
 description="If you've been following me @CasualPhysics on Twitter, then you will have seen the rather large spanner in the works for my Les Case replication experiments."
 toc = true
 +++

@@ -6,7 +6,7 @@ tags = [
     "science"
 ]
 subtitle="Delving deeper into cold fusion (LENR)"
-series = ["Cold fusion (LENR)"]
+series = ["Cold fusion LENR"]
 description="I'm very grateful to cold fusion veteran Prof. Peter Hagelstein - he's pointed me in the direction of the right rabbit hole in which I'm now learning a lot. He was super quick to respond to the email I committed myself to writing back in April and he shared some of his thoughts, experience and a bunch of his super useful research papers."
 toc = true
 +++

@@ -6,7 +6,7 @@ tags = [
     "science"
 ]
 subtitle="My foray into cold fusion experiments"
-series = ["Cold fusion (LENR)"]
+series = ["Cold fusion LENR"]
 description="A month ago, I committed myself to making some local cold fusion connections by placing somewhat cryptic posters in London university physics departments. One of the physicists was also an entrepreneurial character. He politely critiqued my proposition of needing £10M to make cold fusion a reality. To paraphrase, \"No one is going to give you £10M. What can you demonstrate for £1000?\" 😱 ."
 toc = true
 +++
