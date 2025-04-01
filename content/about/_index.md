@@ -35,7 +35,7 @@ My passion for education extended beyond academia—since 2017 I’ve since faci
 
 I’ve also helped people launch their careers in tech (student recommendations on [my LinkedIn](https://www.linkedin.com/in/matthew-lilley/)) and have launched a weekend-long learning experience called [Taste of Tech]({{< relref "/posts/taste-of-tech" >}}), designed to help people figure out if a career in tech is right for them.
 
-More recently, I’ve [re-engaged with physics]({{< relref "/posts/returning-to-physics" >}}) full time through a collaboration with MIT and the Anthropocene Institute on [nucleonics]({{< relref "/series/nucleonics" >}}) research—a new field exploring nuclear state manipulation. This work pushes the boundaries of solid-state fusion and could redefine how we think about energy at the fundamental level. It’s either groundbreaking or, at the very least, an excellent excuse to geek out over quantum mechanics again.
+More recently, I’ve [re-engaged with physics]({{< relref "/posts/returning-to-physics" >}}) through a collaboration with MIT and the Anthropocene Institute on [nucleonics]({{< relref "/series/nucleonics" >}}) research—a new field exploring nuclear state manipulation. This work pushes the boundaries of solid-state fusion and could redefine how we think about energy at the fundamental level. It’s either groundbreaking or, at the very least, an excellent excuse to geek out over quantum mechanics again.
 
 Outside of my website, I create physics content on [YouTube (Casual Physics)](https://www.youtube.com/CasualPhysics) - like and subscribe 🤣.
 
